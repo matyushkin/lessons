@@ -26,7 +26,7 @@
 - [Чек-лист для отладки нейронной сети: 5 шагов на пути к успеху](https://proglib.io/p/networks-debugging)
 - [TensorFlow умер. Да здравствует TensorFlow 2.0!](https://proglib.io/p/tensorflow2)
 - [Фреймворк глубокого обучения в 2019: выбираем из 10 лучших](https://proglib.io/p/dl-frameworks)
-- [7 трюков для глубокого обучения, о которых вы не знали](7 трюков для глубокого обучения, о которых вы не знали)
+- [7 трюков для глубокого обучения, о которых вы не знали](https://proglib.io/p/deep-learning-tricks)
 - [Наглядно объясняем операцию свертки в моделях глубокого обучения](https://proglib.io/p/convolution)
 - [Учебный план изучения основ глубокого обучения и нейросетей за 6 недель](https://proglib.io/p/deep-learning-in-6-weeks)
 - [TensorFlow.js: машинное обучение на JavaScript с доставкой в браузер](https://proglib.io/p/tensorflow-js)
