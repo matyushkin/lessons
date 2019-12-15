@@ -7,9 +7,9 @@
 
 Ниже представлены публикации на тему программирования. Также я занимаюсь научными исследованиями ([профиль на ResearchGate](https://www.researchgate.net/profile/Lev_Matyushkin)) и учебной деятельностью ([курс Наноматериалы на stepik.org](https://stepik.org/course/52514/syllabus)).
 
-Внутри рубрик статьи расположены преимущество в порядке от наиболее новых к более старым:
+Внутри рубрик статьи расположены преимущественно в порядке от наиболее новых к более старым. Жирным выделены наиболее проработанные публикации:
 
-**Python**
+### Python
 - **[Не изобретать велосипед, или Обзор модуля collections в Python](https://proglib.io/p/ne-izobretat-velosiped-ili-obzor-modulya-collections-v-python-2019-12-15)**
 - **[Назад в будущее: практическое руководство по путешествию во времени с Python](https://proglib.io/p/nazad-v-budushchee-prakticheskoe-rukovodstvo-po-puteshestviyu-vo-vremeni-s-python-2019-12-01)**
 - [Тест на знания о необычном поведении Python](https://proglib.io/tests/test-na-obshchie-znaniya-dlya-middle-python-razrabotchika)
@@ -29,7 +29,7 @@
 - [Python(x, y)](https://habr.com/ru/post/113065/)
 - **[Программирование и научные вычисления на языке Python (курс на Викиверситете)](https://ru.wikiversity.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_Python)**
 
-**Нейронные сети и компьютерное зрение**
+### Нейронные сети и компьютерное зрение
 - [Голосовой DeepFake, или Как работает технология клонирования голоса](https://proglib.io/p/golosovoy-deepfake-ili-kak-rabotaet-tehnologiya-klonirovaniya-golosa-2019-12-11)
 - [DeepFake-туториал: создаем собственный дипфейк в DeepFaceLab](https://proglib.io/p/deepfake-tutorial-sozdaem-sobstvennyy-dipfeyk-v-deepfacelab-2019-11-16)
 - [Автоматическое распознавание автомобильных номеров на Raspberry Pi](https://proglib.io/p/avtomaticheskoe-raspoznavanie-avtomobilnyh-nomerov-na-raspberry-pi-2019-11-01)
@@ -45,7 +45,7 @@
 - [Наглядное введение в нейросети на примере распознавания цифр](https://proglib.io/p/neural-network-course)
 - [Нейронная сеть на Python в 15 строк кода для диагностики диабета](https://proglib.io/p/diabetes-network)
 
-**ML и общие вопросы Data Science**
+### ML и общие вопросы Data Science
 - [Анализируй данные с помощью одной строки на Python](https://proglib.io/p/analiziruy-dannye-s-pomoshchyu-odnoy-stroki-koda-na-python-2019-10-02)
 - [6 крупных open source проектов в сфере Data Science](https://proglib.io/p/6-krupnyh-open-source-proektov-v-sfere-data-science-2019-11-20)
 - [Big Data: размер имеет значение](https://proglib.io/p/big-data-razmer-imeet-znachenie-2019-10-19)
@@ -66,7 +66,7 @@
 - [Python и R: что выбрать для Data Science в 2018?](https://proglib.io/p/python-vs-r)
 - [Создаем бота в Facebook на Python менее чем за 60 минут](https://proglib.io/p/facebook-bot-with-python)
 
-**Другие**
+### Другие
 - [Безопасность прежде всего: как защитить Linux на сервере VPS](https://proglib.io/p/bezopasnost-prezhde-vsego-kak-zashchitit-linux-na-servere-vps-2019-12-04)
 - [Вебхуки: как получать данные без промедления и опросов API](https://proglib.io/p/vebhuki-kak-poluchat-dannye-bez-promedleniya-i-oprosov-api-2019-11-09)
 - [Пишем простой граббер для Telegram чатов на Python](https://proglib.io/p/pishem-prostoy-grabber-dlya-telegram-chatov-na-python-2019-11-06)
@@ -75,7 +75,7 @@
 - [Карьерный рост: в чем разница между Junior, Middle и Senior?](https://proglib.io/p/junior-middle-senior)
 - **[12 простых советов тем, кто самостоятельно учит математику](https://proglib.io/p/learn-math)**
 - [9 гифок, наглядно иллюстрирующих дифференцируемость функции](https://proglib.io/p/diff)
-- **[Детальный план самообразования в Computer Science за 1.5 года](https://proglib.io/p/cs-learning)**
+- **[Детальный план самообразования в Computer Science за полтора года](https://proglib.io/p/cs-learning)**
 - [От новичка до профи в блокчейн-технологиях за 2 месяца](https://proglib.io/p/blockchain-plan)
 - [Более 200 избранных ссылок на материалы о языке Go](https://proglib.io/p/golinks)
 - [Как получить опыт и зарабатывать на Open Source проектах](https://proglib.io/p/open-source)
