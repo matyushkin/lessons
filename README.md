@@ -1,10 +1,18 @@
 # lessons
-Блокноты Jupyter для различных образовательных ресурсов
+Блокноты Jupyter для различных образовательных ресурсов и интерактивные версии публикаций.
 
-Для proglib были подготовлены следующие статьи (названия зачастую скорректированы редактором):
+## Перечень публикаций
+
+Большинство публикаций подготовлены для [Библиотеки программиста](https://proglib.io/) (в этом случае названия зачастую скорректированы редактором), более ранние – для [хабра](https://habr.com/ru/users/LeoMat/).
+
+Ниже представлены публикации на тему программирования. Также я занимаюсь научными исследованиями ([профиль на ResearchGate](https://www.researchgate.net/profile/Lev_Matyushkin)) и учебной деятельностью ([курс Наноматериалы на stepik.org](https://stepik.org/course/52514/syllabus)).
+
+Внутри рубрик статьи расположены преимущество в порядке от наиболее новых к более старым:
 
 **Python**
-- [Назад в будущее: практическое руководство по путешествию во времени с Python](https://proglib.io/p/nazad-v-budushchee-prakticheskoe-rukovodstvo-po-puteshestviyu-vo-vremeni-s-python-2019-12-01)
+- **[Не изобретать велосипед, или Обзор модуля collections в Python](https://proglib.io/p/ne-izobretat-velosiped-ili-obzor-modulya-collections-v-python-2019-12-15)**
+- **[Назад в будущее: практическое руководство по путешествию во времени с Python](https://proglib.io/p/nazad-v-budushchee-prakticheskoe-rukovodstvo-po-puteshestviyu-vo-vremeni-s-python-2019-12-01)**
+- [Тест на знания о необычном поведении Python](https://proglib.io/tests/test-na-obshchie-znaniya-dlya-middle-python-razrabotchika)
 - [10 советов о том, как научить ребенка программировать на Python](https://proglib.io/p/10-sovetov-o-tom-kak-nauchit-rebenka-programmirovat-na-python-2019-10-12)
 - [Пишем программу для автоматического распознавания объектов с веб-камер](https://proglib.io/p/pishem-programmu-dlya-avtomaticheskogo-raspoznavaniya-obektov-s-veb-kamer-2019-10-05)
 - [Спасательный круг для собеседования на Python-разработчика](https://proglib.io/p/py-interview)
@@ -16,7 +24,10 @@
 - [ТОП-15 трюков в Python 3, делающих код понятнее и быстрее](https://proglib.io/p/python-tricks)
 - [ТОП-10 англоязычных публикаций по Python за апрель 2018](https://proglib.io/p/python-april-2018)
 - [Парсинг сайтов на Python: подробный видеокурс и программный код](https://proglib.io/p/parsing-course)
-- [Тест на знания о необычном поведении Python](https://proglib.io/tests/test-na-obshchie-znaniya-dlya-middle-python-razrabotchika)
+- [Регулярные выражения, пособие для новичков. Часть 1](https://habr.com/ru/post/115825/) [Часть 2](https://habr.com/ru/post/115436/)
+- [Как сделать из 123456789 число 100 или 0](https://habr.com/ru/post/115066/)
+- [Python(x, y)](https://habr.com/ru/post/113065/)
+- **[Программирование и научные вычисления на языке Python (курс на Викиверситете)](https://ru.wikiversity.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_Python)**
 
 **Нейронные сети и компьютерное зрение**
 - [Голосовой DeepFake, или Как работает технология клонирования голоса](https://proglib.io/p/golosovoy-deepfake-ili-kak-rabotaet-tehnologiya-klonirovaniya-golosa-2019-12-11)
@@ -42,9 +53,9 @@
 - [Встречайте: версия 4.0 графической библиотеки plotly для Python](https://proglib.io/p/plotly-4)
 - [Забудьте о matplotlib: визуализация данных в Python вместе с plotly](https://proglib.io/p/plotly)
 - [Теорема Байеса: Святой Грааль Data Science](https://proglib.io/p/bayes-theorem)
-- [Jupyter Notebook: галерея лучших блокнотов по ML и Data Science](https://proglib.io/p/jupyter-notebook-best)
+- **[Jupyter Notebook: галерея блокнотов по ML и Data Science](https://proglib.io/p/jupyter-notebook-best)**
 - [Искусственный интеллект и рост вычислительных мощностей](https://proglib.io/p/ai-and-compute)
-- [Мнения топовых людей из индустрии Data Science о развитии отрасли](https://proglib.io/p/data-science-dialogues)
+- [Мнения людей из индустрии Data Science о развитии отрасли](https://proglib.io/p/data-science-dialogues)
 - [ТОП-10 мировых публикаций по машинному обучению за апрель 2018](https://proglib.io/p/ml-april-2018)
 - [10 рецептов машинного обучения от разработчиков Google](https://proglib.io/p/google-ml-recipes)
 - [10 строк для диагностики болезни Паркинсона при помощи XGBoost](https://proglib.io/p/xgboost)
@@ -62,9 +73,9 @@
 - [Читаемый код: 10 практик успешного написания](https://proglib.io/p/clean-code)
 - [Дайджест: 300 ссылок на обучающие ресурсы по программированию](https://proglib.io/p/300-programming-urls)
 - [Карьерный рост: в чем разница между Junior, Middle и Senior?](https://proglib.io/p/junior-middle-senior)
-- [12 простых советов тем, кто самостоятельно учит математику](https://proglib.io/p/learn-math)
+- **[12 простых советов тем, кто самостоятельно учит математику](https://proglib.io/p/learn-math)**
 - [9 гифок, наглядно иллюстрирующих дифференцируемость функции](https://proglib.io/p/diff)
-- [Детальный план самообразования в Computer Science за 1.5 года](https://proglib.io/p/cs-learning)
+- **[Детальный план самообразования в Computer Science за 1.5 года](https://proglib.io/p/cs-learning)**
 - [От новичка до профи в блокчейн-технологиях за 2 месяца](https://proglib.io/p/blockchain-plan)
 - [Более 200 избранных ссылок на материалы о языке Go](https://proglib.io/p/golinks)
 - [Как получить опыт и зарабатывать на Open Source проектах](https://proglib.io/p/open-source)
@@ -73,3 +84,4 @@
 - [Как правильно искать и читать научные статьи?](https://proglib.io/p/research-papers)
 - [Создаем первый смарт-контракт на Ethereum менее чем за 60 минут](https://proglib.io/p/smart-contract)
 - [Импульсные нейронные сети: мозг в компьютере](https://proglib.io/p/spiking-neural-networks)
+- [Как помочь ребенку выучить таблицу умножения](https://habr.com/ru/post/126043/)
