@@ -10,6 +10,7 @@
 Внутри рубрик статьи расположены преимущественно в порядке от наиболее новых к более старым. Жирным выделены наиболее проработанные публикации:
 
 ### Python
+- **[Итерируемся правильно: 20 приемов использования в Python модуля itertools](https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03)**
 - **[Не изобретать велосипед, или Обзор модуля collections в Python](https://proglib.io/p/ne-izobretat-velosiped-ili-obzor-modulya-collections-v-python-2019-12-15)**
 - **[Назад в будущее: практическое руководство по путешествию во времени с Python](https://proglib.io/p/nazad-v-budushchee-prakticheskoe-rukovodstvo-po-puteshestviyu-vo-vremeni-s-python-2019-12-01)**
 - [Тест на знания о необычном поведении Python](https://proglib.io/tests/test-na-obshchie-znaniya-dlya-middle-python-razrabotchika)
