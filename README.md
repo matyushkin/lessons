@@ -68,7 +68,12 @@
 - [Python и R: что выбрать для Data Science в 2018?](https://proglib.io/p/python-vs-r)
 - [Создаем бота в Facebook на Python менее чем за 60 минут](https://proglib.io/p/facebook-bot-with-python)
 
+### Задачки
+- [Задача о двойных фамилиях](https://proglib.io/p/zadacha-o-dvoynyh-familiyah-2020-01-11)
+
 ### Другие
+- **[6 идей проектов выходного дня](https://proglib.io/p/6-idey-proektov-vyhodnogo-dnya-2020-01-11)**
+- [GitLab или GitHub? Как выбрать ресурс под определённый тип репозитория](https://proglib.io/p/gitlab-ili-github-kak-vybrat-resurs-pod-opredelennyy-tip-repozitoriya-2020-01-06)
 - [20 тенденций в разработке программного обеспечения на 2020 год](https://proglib.io/p/20-tendenciy-v-razrabotke-programmnogo-obespecheniya-na-2020-god-2019-12-20)
 - [Безопасность прежде всего: как защитить Linux на сервере VPS](https://proglib.io/p/bezopasnost-prezhde-vsego-kak-zashchitit-linux-na-servere-vps-2019-12-04)
 - [Вебхуки: как получать данные без промедления и опросов API](https://proglib.io/p/vebhuki-kak-poluchat-dannye-bez-promedleniya-i-oprosov-api-2019-11-09)
