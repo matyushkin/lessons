@@ -3,13 +3,14 @@
 
 ## Перечень публикаций
 
-Большинство публикаций подготовлены для [Библиотеки программиста](https://proglib.io/) (в этом случае названия нередко скорректированы редактором), более ранние – для [хабра](https://habr.com/ru/users/LeoMat/). Публикации представляют собой как оригинальные статьи и пособия, так и переводы англоязычных статей (примерно пополам). Если вы заметили ошибки — пишите в комментариях к постам или на e-mail, я обязательно исправлю.
+Большинство публикаций подготовлены для [Библиотеки программиста](https://proglib.io/) (в этом случае названия нередко скорректированы редактором), более ранние – для [Хабра](https://habr.com/ru/users/LeoMat/). Публикации представляют собой как оригинальные статьи и пособия, так и переводы англоязычных статей (примерно пополам). Если вы заметили ошибки — пишите в комментариях к постам или на e-mail, я обязательно исправлю.
 
 Ниже представлены публикации на тему программирования. Также занимаюсь научными исследованиями ([профиль на ResearchGate](https://www.researchgate.net/profile/Lev_Matyushkin)) и учебной деятельностью ([курс Наноматериалы на stepik.org](https://stepik.org/course/52514/syllabus)). Основной исследовательский проект сейчас — [исследование первых воспоминаний](https://github.com/matyushkin/reminiscence).
 
 Внутри рубрик статьи расположены преимущественно в порядке от наиболее новых к более старым. Жирным выделены наиболее проработанные публикации:
 
 ### Python
+- [Иллюстрированное руководство по изменению формы массивов NumPy](https://proglib.io/p/illyustrirovannoe-rukovodstvo-po-izmeneniyu-formy-mnogomernyh-massivov-numpy-2020-01-12)
 - **[Итерируемся правильно: 20 приемов использования в Python модуля itertools](https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03)**
 - **[Не изобретать велосипед, или Обзор модуля collections в Python](https://proglib.io/p/ne-izobretat-velosiped-ili-obzor-modulya-collections-v-python-2019-12-15)**
 - **[Назад в будущее: практическое руководство по путешествию во времени с Python](https://proglib.io/p/nazad-v-budushchee-prakticheskoe-rukovodstvo-po-puteshestviyu-vo-vremeni-s-python-2019-12-01)**
@@ -68,10 +69,14 @@
 - [Python и R: что выбрать для Data Science в 2018?](https://proglib.io/p/python-vs-r)
 - [Создаем бота в Facebook на Python менее чем за 60 минут](https://proglib.io/p/facebook-bot-with-python)
 
-### Задачки
+### Сериал головоломок
 - [Задача о двойных фамилиях](https://proglib.io/p/zadacha-o-dvoynyh-familiyah-2020-01-11)
+- [Задача о спрятанном решении](https://proglib.io/p/zadacha-o-spryatannom-reshenii-2020-01-11)
+- [Задача об острове хамелеонов](https://proglib.io/p/zadacha-ob-ostrove-hameleonov-2020-01-13)
+- [Задача о фамилии Тьюринга](https://proglib.io/p/zadacha-o-familii-tyuringa-2020-01-14)
 
 ### Другие
+- [Функциональный JavaScript: 6 образцов кода без цикла for](https://proglib.io/p/funkcionalnyy-javascript-6-obrazcov-koda-bez-cikla-for-2020-01-13)
 - **[6 идей проектов выходного дня](https://proglib.io/p/6-idey-proektov-vyhodnogo-dnya-2020-01-11)**
 - [GitLab или GitHub? Как выбрать ресурс под определённый тип репозитория](https://proglib.io/p/gitlab-ili-github-kak-vybrat-resurs-pod-opredelennyy-tip-repozitoriya-2020-01-06)
 - [20 тенденций в разработке программного обеспечения на 2020 год](https://proglib.io/p/20-tendenciy-v-razrabotke-programmnogo-obespecheniya-na-2020-god-2019-12-20)
