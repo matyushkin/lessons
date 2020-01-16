@@ -49,6 +49,7 @@
 - [Нейронная сеть на Python в 15 строк кода для диагностики диабета](https://proglib.io/p/diabetes-network)
 
 ### ML и общие вопросы Data Science
+- [Опыт разработки: почему мы пишем инфраструктуру машинного обучения на Go, а не на Python](https://proglib.io/p/opyt-razrabotki-pochemu-my-pishem-infrastrukturu-mashinnogo-obucheniya-na-go-a-ne-na-python-2020-01-15)
 - [Анализируй данные с помощью одной строки на Python](https://proglib.io/p/analiziruy-dannye-s-pomoshchyu-odnoy-stroki-koda-na-python-2019-10-02)
 - [6 крупных open source проектов в сфере Data Science](https://proglib.io/p/6-krupnyh-open-source-proektov-v-sfere-data-science-2019-11-20)
 - [Big Data: размер имеет значение](https://proglib.io/p/big-data-razmer-imeet-znachenie-2019-10-19)
@@ -70,10 +71,11 @@
 - [Создаем бота в Facebook на Python менее чем за 60 минут](https://proglib.io/p/facebook-bot-with-python)
 
 ### Сериал головоломок
-- [Задача о двойных фамилиях](https://proglib.io/p/zadacha-o-dvoynyh-familiyah-2020-01-11)
-- [Задача о спрятанном решении](https://proglib.io/p/zadacha-o-spryatannom-reshenii-2020-01-11)
-- [Задача об острове хамелеонов](https://proglib.io/p/zadacha-ob-ostrove-hameleonov-2020-01-13)
-- [Задача о фамилии Тьюринга](https://proglib.io/p/zadacha-o-familii-tyuringa-2020-01-14)
+1. [Двойные фамилии](https://proglib.io/p/zadacha-o-dvoynyh-familiyah-2020-01-11)
+2. [Спрятанное решение](https://proglib.io/p/zadacha-o-spryatannom-reshenii-2020-01-11)
+3. [Остров хамелеонов](https://proglib.io/p/zadacha-ob-ostrove-hameleonov-2020-01-13)
+4. [Номер Тьюринга](https://proglib.io/p/zadacha-o-familii-tyuringa-2020-01-14)
+5. [Время великих учёных](https://proglib.io/p/zadacha-s-sobesedovaniya-idei-proekta-vremya-velikih-uchenyh-2020-01-15)
 
 ### Другие
 - [Функциональный JavaScript: 6 образцов кода без цикла for](https://proglib.io/p/funkcionalnyy-javascript-6-obrazcov-koda-bez-cikla-for-2020-01-13)
