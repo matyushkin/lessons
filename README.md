@@ -10,6 +10,7 @@
 Внутри рубрик статьи расположены преимущественно в порядке от наиболее новых к более старым. Жирным выделены наиболее проработанные публикации:
 
 ### Python
+- [Веб-скрапинг по расписанию с Django и Heroku](https://proglib.io/p/veb-skraping-po-raspisaniyu-s-heroku-i-django-2020-01-17)
 - [Иллюстрированное руководство по изменению формы массивов NumPy](https://proglib.io/p/illyustrirovannoe-rukovodstvo-po-izmeneniyu-formy-mnogomernyh-massivov-numpy-2020-01-12)
 - **[Итерируемся правильно: 20 приемов использования в Python модуля itertools](https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03)**
 - **[Не изобретать велосипед, или Обзор модуля collections в Python](https://proglib.io/p/ne-izobretat-velosiped-ili-obzor-modulya-collections-v-python-2019-12-15)**
