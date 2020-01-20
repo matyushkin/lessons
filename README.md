@@ -50,6 +50,7 @@
 - [Нейронная сеть на Python в 15 строк кода для диагностики диабета](https://proglib.io/p/diabetes-network)
 
 ### ML и общие вопросы Data Science
+- [7 лучших видео TED по тематике Data Science](https://proglib.io/p/7-luchshih-video-ted-po-tematike-data-science-2020-01-20)
 - [Опыт разработки: почему мы пишем инфраструктуру машинного обучения на Go, а не на Python](https://proglib.io/p/opyt-razrabotki-pochemu-my-pishem-infrastrukturu-mashinnogo-obucheniya-na-go-a-ne-na-python-2020-01-15)
 - [Анализируй данные с помощью одной строки на Python](https://proglib.io/p/analiziruy-dannye-s-pomoshchyu-odnoy-stroki-koda-na-python-2019-10-02)
 - [6 крупных open source проектов в сфере Data Science](https://proglib.io/p/6-krupnyh-open-source-proektov-v-sfere-data-science-2019-11-20)
@@ -77,8 +78,10 @@
 3. [Остров хамелеонов](https://proglib.io/p/zadacha-ob-ostrove-hameleonov-2020-01-13)
 4. [Номер Тьюринга](https://proglib.io/p/zadacha-o-familii-tyuringa-2020-01-14)
 5. [Время великих учёных](https://proglib.io/p/zadacha-s-sobesedovaniya-idei-proekta-vremya-velikih-uchenyh-2020-01-15)
+6. [Прогуливающиеся джентльмены](https://proglib.io/p/zadacha-o-progulivayushchihsya-dzhentlmenah-2020-01-18)
 
 ### Другие
+- [Хакинг мозга. Обработка сигналов мыслительной активности с интерфейсом OpenBCI](https://proglib.io/p/haking-mozga-obrabotka-signalov-myslitelnoy-aktivnosti-s-interfeysom-openbci-2020-01-20)
 - [Функциональный JavaScript: 6 образцов кода без цикла for](https://proglib.io/p/funkcionalnyy-javascript-6-obrazcov-koda-bez-cikla-for-2020-01-13)
 - **[6 идей проектов выходного дня](https://proglib.io/p/6-idey-proektov-vyhodnogo-dnya-2020-01-11)**
 - [GitLab или GitHub? Как выбрать ресурс под определённый тип репозитория](https://proglib.io/p/gitlab-ili-github-kak-vybrat-resurs-pod-opredelennyy-tip-repozitoriya-2020-01-06)
