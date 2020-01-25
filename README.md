@@ -81,6 +81,7 @@
 5. [Время великих учёных](https://proglib.io/p/zadacha-s-sobesedovaniya-idei-proekta-vremya-velikih-uchenyh-2020-01-15)
 6. [Прогуливающиеся джентльмены](https://proglib.io/p/zadacha-o-progulivayushchihsya-dzhentlmenah-2020-01-18)
 7. [Часы с одинаковыми стрелками](https://proglib.io/p/zadacha-o-chasah-s-odinakovymi-strelkami-2020-01-22)
+8. [Вирус в колонии бактерий](https://proglib.io/p/zadacha-o-viruse-v-kolonii-bakteriy-2020-01-25)
 
 ### Другие
 - [Как на C++ быстро заполнить нулями большой массив?](https://proglib.io/p/kak-na-c-bystro-zapolnit-nulyami-bolshoy-massiv-2020-01-22)
