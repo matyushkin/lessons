@@ -9,6 +9,7 @@
 Внутри рубрик статьи расположены преимущественно в порядке от наиболее новых к более старым. Жирным выделены наиболее проработанные публикации:
 
 ### Python
+- [Как опубликовать свою Python библиотеку на PyPI](https://proglib.io/p/kak-opublikovat-svoyu-python-biblioteku-na-pypi-2020-01-28)
 - [Веб-скрапинг по расписанию с Django и Heroku](https://proglib.io/p/veb-skraping-po-raspisaniyu-s-heroku-i-django-2020-01-17)
 - [Иллюстрированное руководство по изменению формы массивов NumPy](https://proglib.io/p/illyustrirovannoe-rukovodstvo-po-izmeneniyu-formy-mnogomernyh-massivov-numpy-2020-01-12)
 - **[Итерируемся правильно: 20 приемов использования в Python модуля itertools](https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03)**
@@ -82,6 +83,7 @@
 6. [Прогуливающиеся джентльмены](https://proglib.io/p/zadacha-o-progulivayushchihsya-dzhentlmenah-2020-01-18)
 7. [Часы с одинаковыми стрелками](https://proglib.io/p/zadacha-o-chasah-s-odinakovymi-strelkami-2020-01-22)
 8. [Вирус в колонии бактерий](https://proglib.io/p/zadacha-o-viruse-v-kolonii-bakteriy-2020-01-25)
+9. [Шесть шахматных коней](https://proglib.io/p/zadacha-o-shesti-shahmatnyh-konyah-2020-01-29)
 
 ### Другие
 - [Как на C++ быстро заполнить нулями большой массив?](https://proglib.io/p/kak-na-c-bystro-zapolnit-nulyami-bolshoy-massiv-2020-01-22)
