@@ -9,6 +9,7 @@
 Внутри рубрик статьи расположены преимущественно в порядке от наиболее новых к более старым. Жирным выделены наиболее проработанные публикации:
 
 ### Python
+- [Python и динамическое программирование на примере задачи о рюкзаке](https://proglib.io/p/python-i-dinamicheskoe-programmirovanie-na-primere-zadachi-o-ryukzake-2020-02-04)
 - [Как опубликовать свою Python библиотеку на PyPI](https://proglib.io/p/kak-opublikovat-svoyu-python-biblioteku-na-pypi-2020-01-28)
 - [Веб-скрапинг по расписанию с Django и Heroku](https://proglib.io/p/veb-skraping-po-raspisaniyu-s-heroku-i-django-2020-01-17)
 - [Иллюстрированное руководство по изменению формы массивов NumPy](https://proglib.io/p/illyustrirovannoe-rukovodstvo-po-izmeneniyu-formy-mnogomernyh-massivov-numpy-2020-01-12)
@@ -84,8 +85,15 @@
 7. [Часы с одинаковыми стрелками](https://proglib.io/p/zadacha-o-chasah-s-odinakovymi-strelkami-2020-01-22)
 8. [Вирус в колонии бактерий](https://proglib.io/p/zadacha-o-viruse-v-kolonii-bakteriy-2020-01-25)
 9. [Шесть шахматных коней](https://proglib.io/p/zadacha-o-shesti-shahmatnyh-konyah-2020-01-29)
+10. [Задача о беглеце](https://proglib.io/p/zadacha-o-beglece-2020-02-01)
+11. [Чеширский кот и число палиндромов](https://proglib.io/p/zagadka-cheshirskogo-kota-o-chisle-palindromov-2020-02-05)
+12. [Карточная головоломка Конвея](https://proglib.io/p/risuem-programmiruya-mashinnaya-generaciya-hudozhestvennyh-uzorov-v-vektornyh-polyah-2020-02-06)
 
 ### Другие
+- [Автостопом по TED: 42 ярких выступления на темы вблизи IT](https://proglib.io/p/avtostopom-po-ted-42-yarkih-vystupleniya-na-temy-vblizi-it-2020-02-11)
+- [Рисуем, программируя. Машинная генерация художественных узоров в векторных полях](https://proglib.io/p/risuem-programmiruya-mashinnaya-generaciya-hudozhestvennyh-uzorov-v-vektornyh-polyah-2020-02-06)
+- [«Я тебя по IP вычислю»: как хакеры рассекречивают звенья цепи Tor](https://proglib.io/p/deanonimizaciya-cepochek-uzlov-tor-2020-02-04)
+- [Rough.js: как заставить компьютер рисовать «от руки»](https://proglib.io/p/rough-js-kak-zastavit-kompyuter-risovat-ot-ruki-2020-01-29)
 - [Как на C++ быстро заполнить нулями большой массив?](https://proglib.io/p/kak-na-c-bystro-zapolnit-nulyami-bolshoy-massiv-2020-01-22)
 - [Графический приём, благодаря которому пользователи будут регистрироваться чаще](https://proglib.io/p/graficheskiy-priem-blagodarya-kotoromu-polzovateli-budut-registrirovatsya-chashche-2020-01-20)
 - [Хакинг мозга. Обработка сигналов мыслительной активности с интерфейсом OpenBCI](https://proglib.io/p/haking-mozga-obrabotka-signalov-myslitelnoy-aktivnosti-s-interfeysom-openbci-2020-01-20)
