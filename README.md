@@ -88,8 +88,13 @@
 10. [Задача о беглеце](https://proglib.io/p/zadacha-o-beglece-2020-02-01)
 11. [Чеширский кот и число палиндромов](https://proglib.io/p/zagadka-cheshirskogo-kota-o-chisle-palindromov-2020-02-05)
 12. [Карточная головоломка Конвея](https://proglib.io/p/risuem-programmiruya-mashinnaya-generaciya-hudozhestvennyh-uzorov-v-vektornyh-polyah-2020-02-06)
+13. [Задача о необычном замке](https://proglib.io/p/zadacha-o-vzlome-bankovskogo-zamka-s-semyu-rychazhkami-2020-02-12)
+14. [Алгоритмическая головоломка о лягушках](https://proglib.io/p/pryg-pryg-algoritmicheskaya-golovolomka-o-lyagushkah-2020-02-15)
+15. [Задача Сфинкса о разрезании лестниц](https://proglib.io/p/obygray-sfinksa-logicheskaya-golovolomka-o-razrezanii-lestnic-2020-02-19)
 
 ### Другие
+- [100+ лекций экспертов Постнауки об анализе данных, ИИ, роботах, математике и сетях](https://proglib.io/p/100-videolekciy-ekspertov-postnauki-2020-02-16)
+- [Перезаряжаем терминал: GitHub CLI в действии](https://proglib.io/p/perezaryazhaem-terminal-github-cli-v-deystvii-2020-02-14)
 - [Автостопом по TED: 42 ярких выступления на темы вблизи IT](https://proglib.io/p/avtostopom-po-ted-42-yarkih-vystupleniya-na-temy-vblizi-it-2020-02-11)
 - [Рисуем, программируя. Машинная генерация художественных узоров в векторных полях](https://proglib.io/p/risuem-programmiruya-mashinnaya-generaciya-hudozhestvennyh-uzorov-v-vektornyh-polyah-2020-02-06)
 - [«Я тебя по IP вычислю»: как хакеры рассекречивают звенья цепи Tor](https://proglib.io/p/deanonimizaciya-cepochek-uzlov-tor-2020-02-04)
