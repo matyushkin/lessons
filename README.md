@@ -75,7 +75,7 @@
 - [Python и R: что выбрать для Data Science в 2018?](https://proglib.io/p/python-vs-r)
 - [Создаем бота в Facebook на Python менее чем за 60 минут](https://proglib.io/p/facebook-bot-with-python)
 
-### Сериал головоломок
+### Алгоритмические головоломки
 1. [Двойные фамилии](https://proglib.io/p/zadacha-o-dvoynyh-familiyah-2020-01-11)
 2. [Спрятанное решение](https://proglib.io/p/zadacha-o-spryatannom-reshenii-2020-01-11)
 3. [Остров хамелеонов](https://proglib.io/p/zadacha-ob-ostrove-hameleonov-2020-01-13)
@@ -91,8 +91,10 @@
 13. [Задача о необычном замке](https://proglib.io/p/zadacha-o-vzlome-bankovskogo-zamka-s-semyu-rychazhkami-2020-02-12)
 14. [Алгоритмическая головоломка о лягушках](https://proglib.io/p/pryg-pryg-algoritmicheskaya-golovolomka-o-lyagushkah-2020-02-15)
 15. [Задача Сфинкса о разрезании лестниц](https://proglib.io/p/obygray-sfinksa-logicheskaya-golovolomka-o-razrezanii-lestnic-2020-02-19)
+16. [Собеседование и семь гномов: задачи с интервью в IT-компаниях](https://proglib.io/p/sobesedovanie-i-sem-gnomov-zadachi-s-intervyu-v-it-kompaniyah-2020-02-22)
 
 ### Другие
+- [Как шифровать информацию с помощью роста кристаллов](https://proglib.io/p/kak-shifrovat-informaciyu-s-pomoshchyu-rosta-kristallov-2020-02-24)
 - [100+ лекций экспертов Постнауки об анализе данных, ИИ, роботах, математике и сетях](https://proglib.io/p/100-videolekciy-ekspertov-postnauki-2020-02-16)
 - [Перезаряжаем терминал: GitHub CLI в действии](https://proglib.io/p/perezaryazhaem-terminal-github-cli-v-deystvii-2020-02-14)
 - [Автостопом по TED: 42 ярких выступления на темы вблизи IT](https://proglib.io/p/avtostopom-po-ted-42-yarkih-vystupleniya-na-temy-vblizi-it-2020-02-11)
