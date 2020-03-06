@@ -9,6 +9,7 @@
 Внутри рубрик статьи расположены преимущественно в порядке от наиболее новых к более старым. Жирным выделены наиболее проработанные публикации:
 
 ### Python
+- **[Как подружить Python и базы данных SQL. Подробное руководство](https://proglib.io/p/kak-podruzhit-python-i-bazy-dannyh-sql-podrobnoe-rukovodstvo-2020-02-27)**
 - [Python и динамическое программирование на примере задачи о рюкзаке](https://proglib.io/p/python-i-dinamicheskoe-programmirovanie-na-primere-zadachi-o-ryukzake-2020-02-04)
 - [Как опубликовать свою Python библиотеку на PyPI](https://proglib.io/p/kak-opublikovat-svoyu-python-biblioteku-na-pypi-2020-01-28)
 - [Веб-скрапинг по расписанию с Django и Heroku](https://proglib.io/p/veb-skraping-po-raspisaniyu-s-heroku-i-django-2020-01-17)
@@ -94,6 +95,7 @@
 16. [Собеседование и семь гномов: задачи с интервью в IT-компаниях](https://proglib.io/p/sobesedovanie-i-sem-gnomov-zadachi-s-intervyu-v-it-kompaniyah-2020-02-22)
 
 ### Другие
+- [PICO-8 и TIC-80. Экскурсия в мир виртуальных консолей для создания ретро-игр](https://proglib.io/p/pico-8-i-tic-80-ekskursiya-v-mir-virtualnyh-konsoley-dlya-sozdaniya-retro-igr-2020-02-29)
 - [Как шифровать информацию с помощью роста кристаллов](https://proglib.io/p/kak-shifrovat-informaciyu-s-pomoshchyu-rosta-kristallov-2020-02-24)
 - [100+ лекций экспертов Постнауки об анализе данных, ИИ, роботах, математике и сетях](https://proglib.io/p/100-videolekciy-ekspertov-postnauki-2020-02-16)
 - [Перезаряжаем терминал: GitHub CLI в действии](https://proglib.io/p/perezaryazhaem-terminal-github-cli-v-deystvii-2020-02-14)
