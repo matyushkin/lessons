@@ -35,6 +35,7 @@
 - **[Программирование и научные вычисления на языке Python (курс на Викиверситете)](https://ru.wikiversity.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_Python)**
 
 ### Нейронные сети и компьютерное зрение
+- [Просто добавь нейросеть: 7 исторических фильмов в 4K и 60 FPS](https://proglib.io/p/prosto-dobav-neyroset-7-istoricheskih-filmov-v-4k-i-60-fps-2020-03-15)
 - [Учим искусственный интеллект раскрашивать контурные изображения персонажей аниме](https://proglib.io/p/sketch2color-uchim-iskusstvennyy-intellekt-raskrashivat-konturnye-izobrazheniya-personazhey-anime-2019-12-30)
 - [Голосовой DeepFake, или Как работает технология клонирования голоса](https://proglib.io/p/golosovoy-deepfake-ili-kak-rabotaet-tehnologiya-klonirovaniya-golosa-2019-12-11)
 - [DeepFake-туториал: создаем собственный дипфейк в DeepFaceLab](https://proglib.io/p/deepfake-tutorial-sozdaem-sobstvennyy-dipfeyk-v-deepfacelab-2019-11-16)
@@ -95,6 +96,8 @@
 16. [Собеседование и семь гномов: задачи с интервью в IT-компаниях](https://proglib.io/p/sobesedovanie-i-sem-gnomov-zadachi-s-intervyu-v-it-kompaniyah-2020-02-22)
 
 ### Другие
+- [Как написать код, который полюбят все](https://proglib.io/p/kak-napisat-kod-kotoryy-polyubyat-vse-2020-03-17)
+- [Как не «сгореть на работе», если ты программист](https://proglib.io/p/kak-ne-sgoret-na-rabote-esli-ty-programmist-2020-03-12)
 - [PICO-8 и TIC-80. Экскурсия в мир виртуальных консолей для создания ретро-игр](https://proglib.io/p/pico-8-i-tic-80-ekskursiya-v-mir-virtualnyh-konsoley-dlya-sozdaniya-retro-igr-2020-02-29)
 - [Как шифровать информацию с помощью роста кристаллов](https://proglib.io/p/kak-shifrovat-informaciyu-s-pomoshchyu-rosta-kristallov-2020-02-24)
 - [100+ лекций экспертов Постнауки об анализе данных, ИИ, роботах, математике и сетях](https://proglib.io/p/100-videolekciy-ekspertov-postnauki-2020-02-16)
