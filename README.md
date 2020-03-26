@@ -96,7 +96,8 @@
 16. [Собеседование и семь гномов: задачи с интервью в IT-компаниях](https://proglib.io/p/sobesedovanie-i-sem-gnomov-zadachi-s-intervyu-v-it-kompaniyah-2020-02-22)
 
 ### Другие
-- [Как написать код, который полюбят все](https://proglib.io/p/kak-napisat-kod-kotoryy-polyubyat-vse-2020-03-17)
+- **[Бесплатные русскоязычные онлайн-курсы по IT-специальностям](https://proglib.io/p/superpodborka-bolee-70-besplatnyh-russkoyazychnyh-onlayn-kursov-po-it-specialnostyam-2020-03-25)**
+- **[Как написать код, который полюбят все](https://proglib.io/p/kak-napisat-kod-kotoryy-polyubyat-vse-2020-03-17)**
 - [Как не «сгореть на работе», если ты программист](https://proglib.io/p/kak-ne-sgoret-na-rabote-esli-ty-programmist-2020-03-12)
 - [PICO-8 и TIC-80. Экскурсия в мир виртуальных консолей для создания ретро-игр](https://proglib.io/p/pico-8-i-tic-80-ekskursiya-v-mir-virtualnyh-konsoley-dlya-sozdaniya-retro-igr-2020-02-29)
 - [Как шифровать информацию с помощью роста кристаллов](https://proglib.io/p/kak-shifrovat-informaciyu-s-pomoshchyu-rosta-kristallov-2020-02-24)
