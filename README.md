@@ -95,8 +95,11 @@
 14. [Алгоритмическая головоломка о лягушках](https://proglib.io/p/pryg-pryg-algoritmicheskaya-golovolomka-o-lyagushkah-2020-02-15)
 15. [Задача Сфинкса о разрезании лестниц](https://proglib.io/p/obygray-sfinksa-logicheskaya-golovolomka-o-razrezanii-lestnic-2020-02-19)
 16. [Собеседование и семь гномов: задачи с интервью в IT-компаниях](https://proglib.io/p/sobesedovanie-i-sem-gnomov-zadachi-s-intervyu-v-it-kompaniyah-2020-02-22)
+17. [Нарисовать змейку, выстроить зиккурат](https://proglib.io/p/para-algoritmicheskih-zadach-dlya-uspeshnogo-programmista-narisovat-zmeyku-vystroit-zikkurat-2020-04-19)
 
 ### Другие
+- **[70 YouTube-каналов для фронтенд-разработчика](https://proglib.io/p/70-youtube-kanalov-dlya-frontend-razrabotchika-2020-05-03)**
+- **[50 русскоязычных YouTube-каналов о языках программирования](https://proglib.io/p/50-russkoyazychnyh-youtube-kanalov-o-yazykah-programmirovaniya-2020-04-22)**
 - **[Бесплатные русскоязычные онлайн-курсы по IT-специальностям](https://proglib.io/p/superpodborka-bolee-70-besplatnyh-russkoyazychnyh-onlayn-kursov-po-it-specialnostyam-2020-03-25)**
 - **[Как написать код, который полюбят все](https://proglib.io/p/kak-napisat-kod-kotoryy-polyubyat-vse-2020-03-17)**
 - [Как не «сгореть на работе», если ты программист](https://proglib.io/p/kak-ne-sgoret-na-rabote-esli-ty-programmist-2020-03-12)
