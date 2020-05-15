@@ -9,6 +9,8 @@
 Внутри рубрик статьи расположены преимущественно в порядке от наиболее новых к более старым. Жирным выделены наиболее проработанные публикации:
 
 ### Python
+- [Динамическое выполнение выражений в Python: eval()](https://proglib.io/p/dinamicheskoe-vypolnenie-vyrazheniy-v-python-funkciya-eval-2020-05-14) ([блокнот Jupyter](eval_func/eval_func.ipynb))
+- [Всё, что нужно знать о декораторах Python](https://proglib.io/p/vse-chto-nuzhno-znat-o-dekoratorah-python-2020-05-09) ([блокнот Jupyter](decorators/decorators.ipynb))
 - **[Как подружить Python и базы данных SQL. Подробное руководство](https://proglib.io/p/kak-podruzhit-python-i-bazy-dannyh-sql-podrobnoe-rukovodstvo-2020-02-27)**
 - [Python и динамическое программирование на примере задачи о рюкзаке](https://proglib.io/p/python-i-dinamicheskoe-programmirovanie-na-primere-zadachi-o-ryukzake-2020-02-04)
 - [Как опубликовать свою Python библиотеку на PyPI](https://proglib.io/p/kak-opublikovat-svoyu-python-biblioteku-na-pypi-2020-01-28)
@@ -98,6 +100,9 @@
 17. [Нарисовать змейку, выстроить зиккурат](https://proglib.io/p/para-algoritmicheskih-zadach-dlya-uspeshnogo-programmista-narisovat-zmeyku-vystroit-zikkurat-2020-04-19)
 
 ### Другие
+- **[50 YouTube-каналов для разработчиков игр](https://proglib.io/p/50-youtube-kanalov-dlya-razrabotchikov-igr-2020-05-13)**
+- [О правильном дизайне полей с выпадающими списками](https://proglib.io/p/o-pravilnom-dizayne-poley-s-vypadayushchimi-spiskami-2020-05-07)
+- [25 лучших книг для программистов](https://proglib.io/p/25-luchshih-knig-dlya-programmistov-2020-05-05)
 - **[70 YouTube-каналов для фронтенд-разработчика](https://proglib.io/p/70-youtube-kanalov-dlya-frontend-razrabotchika-2020-05-03)**
 - **[50 русскоязычных YouTube-каналов о языках программирования](https://proglib.io/p/50-russkoyazychnyh-youtube-kanalov-o-yazykah-programmirovaniya-2020-04-22)**
 - **[Бесплатные русскоязычные онлайн-курсы по IT-специальностям](https://proglib.io/p/superpodborka-bolee-70-besplatnyh-russkoyazychnyh-onlayn-kursov-po-it-specialnostyam-2020-03-25)**
