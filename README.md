@@ -99,6 +99,7 @@
 17. [Нарисовать змейку, выстроить зиккурат](https://proglib.io/p/para-algoritmicheskih-zadach-dlya-uspeshnogo-programmista-narisovat-zmeyku-vystroit-zikkurat-2020-04-19)
 
 ### Другие
+- 📕 [10 книг по PHP: от новичка до профессионала](https://proglib.io/p/top-10-knig-po-php-ot-novichka-do-professionala-2020-05-24)
 - ▶️ **[50 YouTube-каналов для разработчиков игр](https://proglib.io/p/50-youtube-kanalov-dlya-razrabotchikov-igr-2020-05-13)**
 - 🖼️ [О правильном дизайне полей с выпадающими списками](https://proglib.io/p/o-pravilnom-dizayne-poley-s-vypadayushchimi-spiskami-2020-05-07)
 - 📕 [25 лучших книг для программистов](https://proglib.io/p/25-luchshih-knig-dlya-programmistov-2020-05-05)
