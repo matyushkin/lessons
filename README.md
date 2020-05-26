@@ -67,7 +67,7 @@
 - [Забудьте о matplotlib: визуализация данных в Python вместе с plotly](https://proglib.io/p/plotly) ([ист.](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e))
 - ➗ [Теорема Байеса: Святой Грааль Data Science](https://proglib.io/p/bayes-theorem) ([ист.](https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb))
 - 🔥 **[Jupyter Notebook: галерея блокнотов по ML и Data Science](https://proglib.io/p/jupyter-notebook-best)** ([ист.](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks))
-- [Искусственный интеллект и рост вычислительных мощностей](https://proglib.io/p/ai-and-compute)
+- [Искусственный интеллект и рост вычислительных мощностей](https://proglib.io/p/ai-and-compute) ([ист.](https://blog.openai.com/ai-and-compute/))
 - [Мнения людей из индустрии Data Science о развитии отрасли](https://proglib.io/p/data-science-dialogues)
 - [ТОП-10 мировых публикаций по машинному обучению за апрель 2018](https://proglib.io/p/ml-april-2018)
 - [10 рецептов машинного обучения от разработчиков Google](https://proglib.io/p/google-ml-recipes)
@@ -75,7 +75,7 @@
 - 📝 [JupyterLab и Jupyter Notebook — мощные инструменты Data Science](https://proglib.io/p/jupyter)
 - 👨‍🎓️ [От новичка до профи в машинном обучении](https://proglib.io/p/ml-3months)
 - [Стартап в сфере искусственного интеллекта в 2018](https://proglib.io/p/ai-startup) ([ист.](https://www.youtube.com/watch?v=9bbS-trc8ys))
-- [Трейдинг и машинное обучение с подкреплением](https://proglib.io/p/trade-learning)
+- [Трейдинг и машинное обучение с подкреплением](https://proglib.io/p/trade-learning) ([ист.](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/))
 - [Python и R: что выбрать для Data Science в 2018?](https://proglib.io/p/python-vs-r)
 - [Создаем бота в Facebook на Python менее чем за 60 минут](https://proglib.io/p/facebook-bot-with-python) ([ист.](https://www.twilio.com/blog/2017/12/facebook-messenger-bot-python.html))
 
