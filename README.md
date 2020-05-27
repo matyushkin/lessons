@@ -1,5 +1,5 @@
 # lessons
-Блокноты Jupyter для различных образовательных ресурсов и интерактивные версии публикаций. Открыт к предложениям: нужно что-то исправить – добавляйте issue или комментарий на сайте публикации. Пишите в телеграм ✈️ [@bythi](https://tggg.me/bythi) или на почту 📬 [leva.matyushkin@gmail.com](mailto:leva.matyushkin@gmail.com). Если вам нравится то, что я делаю, меня можно [поддержать](https://matyushkin.github.io/donate/) 🙏. 
+Блокноты Jupyter для различных образовательных ресурсов и интерактивные версии публикаций. Открыт к предложениям: нужно что-то исправить – добавляйте `issue` или комментарий на сайте публикации. Пишите в телеграм ✈️ [@bythi](https://tggg.me/bythi) или на почту 📬 [leva.matyushkin@gmail.com](mailto:leva.matyushkin@gmail.com). Если вам нравится то, что я делаю, меня можно [поддержать](https://matyushkin.github.io/donate/) 🙏.
 
 ## Перечень публикаций
 Большинство публикаций подготовлены для [Библиотеки программиста](https://proglib.io/) (в этом случае названия часто скорректированы редактором), более ранние – для [Хабра](https://habr.com/ru/users/LeoMat/). Публикации представляют собой как оригинальные статьи и пособия, так и переводы англоязычных статей (примерно пополам). Если вы заметили ошибки — пишите в комментариях к постам или на e-mail, я обязательно исправлю.
@@ -26,10 +26,10 @@
 - [Требования к Python-разработчику на мировом рынке 2019 года](https://proglib.io/p/python-dev-2019), ([ист.](https://hackernoon.com/what-do-companies-expect-from-python-devs-in-2019-f8b585a1ddf))
 - [Быстрый путеводитель по Python: cписки за 7 минут](https://proglib.io/p/python-lists) ([ист.](https://www.freecodecamp.org/news/a-quick-yet-complete-tour-of-lists-in-python3-in-just-seven-minutes-437e615110d0/))
 - [Pythran: как заставить работать код Python со скоростью С++](https://proglib.io/p/pythran) ([ист.](https://medium.com/@olivier.borderies/pythran-python-at-c-speed-518f26af60e8))
-- ▶️ [Видео 10 лучших докладов о Python на конференции PyCon](https://proglib.io/p/top10-pycon)
-- 🔗 [TOP-10 open source проектов на Python в сентябре 2018](https://proglib.io/p/python-opensources)
+- ▶️ [Видео 10 лучших докладов о Python на конференции PyCon](https://proglib.io/p/top10-pycon) ([ист.](https://realpython.com/must-watch-pycon-talks/))
+- 🔗 [TOP-10 open source проектов на Python в сентябре 2018](https://proglib.io/p/python-opensources) ([ист.](https://medium.mybridge.co/python-open-source-of-the-month-v-aug-2018-9433979f586d))
 - [ТОП-15 трюков в Python 3, делающих код понятнее и быстрее](https://proglib.io/p/python-tricks)
-- 🔗 [ТОП-10 англоязычных публикаций по Python за апрель 2018](https://proglib.io/p/python-april-2018)
+- 🔗 [ТОП-10 англоязычных публикаций по Python за апрель 2018](https://proglib.io/p/python-april-2018) ([ист.](https://github.com/Mybridge/python-articles/blob/master/src/05-2018.md))
 - [Парсинг сайтов на Python: подробный видеокурс и программный код](https://proglib.io/p/parsing-course)
 - ▶️ [Регулярные выражения, пособие для новичков. Часть 1](https://habr.com/ru/post/115825/) [Часть 2](https://habr.com/ru/post/115436/)
 - [Как сделать из 123456789 число 100 или 0](https://habr.com/ru/post/115066/)
@@ -41,14 +41,14 @@
 - ▶️ [Просто добавь нейросеть: 7 исторических фильмов в 4K и 60 FPS](https://proglib.io/p/prosto-dobav-neyroset-7-istoricheskih-filmov-v-4k-i-60-fps-2020-03-15)
 - [Учим искусственный интеллект раскрашивать контурные изображения персонажей аниме](https://proglib.io/p/sketch2color-uchim-iskusstvennyy-intellekt-raskrashivat-konturnye-izobrazheniya-personazhey-anime-2019-12-30) ([ист.](https://towardsdatascience.com/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb))
 - [Голосовой DeepFake, или Как работает технология клонирования голоса](https://proglib.io/p/golosovoy-deepfake-ili-kak-rabotaet-tehnologiya-klonirovaniya-golosa-2019-12-11)
-- 📝 [DeepFake-туториал: создаем собственный дипфейк в DeepFaceLab](https://proglib.io/p/deepfake-tutorial-sozdaem-sobstvennyy-dipfeyk-v-deepfacelab-2019-11-16)
+- 📝 [DeepFake-туториал: создаем собственный дипфейк в DeepFaceLab](https://proglib.io/p/deepfake-tutorial-sozdaem-sobstvennyy-dipfeyk-v-deepfacelab-2019-11-16) ([ист.](https://github.com/iperov/DeepFaceLab/))
 - [Автоматическое распознавание автомобильных номеров на Raspberry Pi](https://proglib.io/p/avtomaticheskoe-raspoznavanie-avtomobilnyh-nomerov-na-raspberry-pi-2019-11-01) 
 - 👨‍🎓️ [Учебный план по основам компьютерного зрения](https://proglib.io/p/cv-plan)
 - 📝 [Чек-лист для отладки нейронной сети: 5 шагов на пути к успеху](https://proglib.io/p/networks-debugging) ([ист.](https://towardsdatascience.com/checklist-for-debugging-neural-networks-d8b2a9434f21))
 - 🗞️ [TensorFlow умер. Да здравствует TensorFlow 2.0!](https://proglib.io/p/tensorflow2)
 - [Фреймворк глубокого обучения в 2019: выбираем из 10 лучших](https://proglib.io/p/dl-frameworks) ([ист.](https://www.youtube.com/watch?v=SJldOOs4vB8))
 - [7 трюков для глубокого обучения](https://proglib.io/p/deep-learning-tricks) ([ист.](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53))
-- [Наглядно объясняем операцию свертки в моделях глубокого обучения](https://proglib.io/p/convolution)
+- [Наглядно объясняем операцию свертки в моделях глубокого обучения](https://proglib.io/p/convolution) ([ист.](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1))
 - 👨‍🎓️ [Учебный план изучения основ глубокого обучения и нейросетей](https://proglib.io/p/deep-learning-in-6-weeks)
 - [TensorFlow.js: машинное обучение на JavaScript с доставкой в браузер](https://proglib.io/p/tensorflow-js)
 - 🗞️ [Популяционное обучение нейросетей](https://proglib.io/p/population-deep-learning) ([ист.](https://deepmind.com/blog/population-based-training-neural-networks/))
@@ -57,19 +57,19 @@
 ### ML и общие вопросы Data Science
 - 🗞️ [Что нового в Pandas 1.0?](https://proglib.io/p/chto-novogo-v-pandas-1-0-2020-01-23) ([ист.](https://towardsdatascience.com/whats-new-in-pandas-1-0-ffa99bd43a58))
 - [Обучение модели обнаружения объектов YOLO на пользовательском наборе данных](https://proglib.io/p/obuchenie-modeli-obnaruzheniya-obektov-yolo-na-polzovatelskom-nabore-dannyh-2020-01-21) ([ист.](https://towardsdatascience.com/training-a-yolov3-object-detection-model-with-a-custom-dataset-4981fa480af0))
-- ▶️ [7 лучших видео TED по тематике Data Science](https://proglib.io/p/7-luchshih-video-ted-po-tematike-data-science-2020-01-20)
+- ▶️ [7 лучших видео TED по тематике Data Science](https://proglib.io/p/7-luchshih-video-ted-po-tematike-data-science-2020-01-20) ([ист.](https://towardsdatascience.com/best-ted-talks-for-data-science-11b699544f))
 - [Почему мы пишем инфраструктуру машинного обучения на Go, а не на Python](https://proglib.io/p/opyt-razrabotki-pochemu-my-pishem-infrastrukturu-mashinnogo-obucheniya-na-go-a-ne-na-python-2020-01-15) ([ист.](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76))
-- [Анализ данных с помощью одной строки на Python](https://proglib.io/p/analiziruy-dannye-s-pomoshchyu-odnoy-stroki-koda-na-python-2019-10-02) ([ист.](https://towardsdatascience.com/exploring-your-data-with-just-1-line-of-python-4b35ce21a82d))
+- 📊 [Анализ данных с помощью одной строки на Python](https://proglib.io/p/analiziruy-dannye-s-pomoshchyu-odnoy-stroki-koda-na-python-2019-10-02) ([ист.](https://towardsdatascience.com/exploring-your-data-with-just-1-line-of-python-4b35ce21a82d))
 - [6 крупных open source проектов в сфере Data Science](https://proglib.io/p/6-krupnyh-open-source-proektov-v-sfere-data-science-2019-11-20) ([ист.](https://www.analyticsvidhya.com/blog/2019/11/6-open-source-data-science-projects/))
 - [Big Data: размер имеет значение](https://proglib.io/p/big-data-razmer-imeet-znachenie-2019-10-19)
 - [7 фреймворков автоматического машинного обучения](https://proglib.io/p/auto-ml)
 - 🗞️ [Встречайте: версия 4.0 графической библиотеки plotly для Python](https://proglib.io/p/plotly-4)
-- [Забудьте о matplotlib: визуализация данных в Python вместе с plotly](https://proglib.io/p/plotly) ([ист.](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e))
+- 📊 [Забудьте о matplotlib: визуализация данных в Python вместе с plotly](https://proglib.io/p/plotly) ([ист.](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e))
 - ➗ [Теорема Байеса: Святой Грааль Data Science](https://proglib.io/p/bayes-theorem) ([ист.](https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb))
 - 🔥 **[Jupyter Notebook: галерея блокнотов по ML и Data Science](https://proglib.io/p/jupyter-notebook-best)** ([ист.](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks))
 - [Искусственный интеллект и рост вычислительных мощностей](https://proglib.io/p/ai-and-compute) ([ист.](https://blog.openai.com/ai-and-compute/))
-- [Мнения людей из индустрии Data Science о развитии отрасли](https://proglib.io/p/data-science-dialogues)
-- [ТОП-10 мировых публикаций по машинному обучению за апрель 2018](https://proglib.io/p/ml-april-2018)
+- ▶️ [Мнения людей из индустрии Data Science о развитии отрасли](https://proglib.io/p/data-science-dialogues)
+- [ТОП-10 мировых публикаций по машинному обучению за апрель 2018](https://proglib.io/p/ml-april-2018) ([ист.](https://github.com/Mybridge/machine-learning-articles))
 - [10 рецептов машинного обучения от разработчиков Google](https://proglib.io/p/google-ml-recipes)
 - [10 строк для диагностики болезни Паркинсона с помощью XGBoost](https://proglib.io/p/xgboost) ([ист.](https://towardsdatascience.com/detect-parkinsons-with-10-lines-of-code-intro-to-xgboost-51a4bf76b2e6))
 - 📝 [JupyterLab и Jupyter Notebook — мощные инструменты Data Science](https://proglib.io/p/jupyter)
@@ -115,9 +115,9 @@
 - ▶️ [Автостопом по TED: 42 ярких выступления на темы вблизи IT](https://proglib.io/p/avtostopom-po-ted-42-yarkih-vystupleniya-na-temy-vblizi-it-2020-02-11)
 - 🖼️ [Рисуем, программируя. Машинная генерация художественных узоров в векторных полях](https://proglib.io/p/risuem-programmiruya-mashinnaya-generaciya-hudozhestvennyh-uzorov-v-vektornyh-polyah-2020-02-06) ([ист.](https://tylerxhobbs.com/essays/2020/flow-fields))
 - [«Я тебя по IP вычислю»: как хакеры рассекречивают звенья цепи Tor](https://proglib.io/p/deanonimizaciya-cepochek-uzlov-tor-2020-02-04) ([ист.](https://www.hackerfactor.com/blog/index.php?/archives/868-Deanonymizing-Tor-Circuits.html))
-- 🖼️ [Rough.js: как заставить компьютер рисовать «от руки»](https://proglib.io/p/rough-js-kak-zastavit-kompyuter-risovat-ot-ruki-2020-01-29)
+- 🖼️📊 [Rough.js: как заставить компьютер рисовать «от руки»](https://proglib.io/p/rough-js-kak-zastavit-kompyuter-risovat-ot-ruki-2020-01-29)
 - [Как на C++ быстро заполнить нулями большой массив?](https://proglib.io/p/kak-na-c-bystro-zapolnit-nulyami-bolshoy-massiv-2020-01-22) ([ист.](https://lemire.me/blog/2020/01/20/filling-large-arrays-with-zeroes-quickly-in-c/))
-- [Графический приём, благодаря которому пользователи будут регистрироваться чаще](https://proglib.io/p/graficheskiy-priem-blagodarya-kotoromu-polzovateli-budut-registrirovatsya-chashche-2020-01-20) ([ист.](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/))
+- 🖼️ [Графический приём, благодаря которому пользователи будут регистрироваться чаще](https://proglib.io/p/graficheskiy-priem-blagodarya-kotoromu-polzovateli-budut-registrirovatsya-chashche-2020-01-20) ([ист.](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/))
 - [Хакинг мозга. Обработка сигналов мыслительной активности с интерфейсом OpenBCI](https://proglib.io/p/haking-mozga-obrabotka-signalov-myslitelnoy-aktivnosti-s-interfeysom-openbci-2020-01-20)
 - [Функциональный JavaScript: 6 образцов кода без цикла for](https://proglib.io/p/funkcionalnyy-javascript-6-obrazcov-koda-bez-cikla-for-2020-01-13) ([ист.](https://medium.com/better-programming/you-dont-need-loops-in-javascript-1dc8139eab4b))
 - **[6 идей проектов выходного дня](https://proglib.io/p/6-idey-proektov-vyhodnogo-dnya-2020-01-11)** ([ист.](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html))
@@ -135,8 +135,8 @@
 - [От новичка до профи в блокчейн-технологиях за 2 месяца](https://proglib.io/p/blockchain-plan)
 - 🔗 [Более 200 избранных ссылок на материалы о языке Go](https://proglib.io/p/golinks) ([ист.](https://github.com/enocom/gopher-reading-list))
 - [Как получить опыт и зарабатывать на Open Source проектах](https://proglib.io/p/open-source)
-- [Иллюстративный видеокурс математического анализа: 10 уроков](https://proglib.io/p/calculus)
-- [Иллюстративный видеокурс по линейной алгебре: 11 уроков](https://proglib.io/p/algebra)
+- ▶️ [Иллюстративный видеокурс математического анализа: 10 уроков](https://proglib.io/p/calculus)
+- ▶️ [Иллюстративный видеокурс по линейной алгебре: 11 уроков](https://proglib.io/p/algebra)
 - [Как правильно искать и читать научные статьи?](https://proglib.io/p/research-papers) ([ист.](https://www.youtube.com/watch?v=SHTOI0KtZnU))
 - [Создаем первый смарт-контракт на Ethereum менее чем за 60 минут](https://proglib.io/p/smart-contract) ([ист.](https://medium.com/crypto-currently/build-your-first-smart-contract-fc36a8ff50ca))
 - [Импульсные нейронные сети: мозг в компьютере](https://proglib.io/p/spiking-neural-networks) ([ист.](https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b))
@@ -150,8 +150,9 @@
 * 👨‍🎓️ подборка курсов или учебный план 
 * 🔗 сборник ссылок
 * ▶️ подборка видео по определенной теме
-* * 📝 инструкция, как что-то сделать
+* 📝 инструкция, как что-то сделать
 * 🕹️ о разработке игр
 * 🗞️ статья новостного плана (потеряла актуальность)
 * 🖼️ о рисовании или дизайне
 * 🧒 о математике и программировании для детей
+* 📊 об инструментах визуализации данных
