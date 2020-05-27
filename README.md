@@ -101,7 +101,7 @@
 ### Другие
 - 📕 [10 книг по PHP: от новичка до профессионала](https://proglib.io/p/top-10-knig-po-php-ot-novichka-do-professionala-2020-05-24)
 - ▶️ **[50 YouTube-каналов для разработчиков игр](https://proglib.io/p/50-youtube-kanalov-dlya-razrabotchikov-igr-2020-05-13)**
-- 🖼️ [О правильном дизайне полей с выпадающими списками](https://proglib.io/p/o-pravilnom-dizayne-poley-s-vypadayushchimi-spiskami-2020-05-07)
+- 🖼️ [О правильном дизайне полей с выпадающими списками](https://proglib.io/p/o-pravilnom-dizayne-poley-s-vypadayushchimi-spiskami-2020-05-07) ([ист.](https://uxdesign.cc/ui-cheat-sheet-dropdown-field-a30025c0f432))
 - 📕 [25 лучших книг для программистов](https://proglib.io/p/25-luchshih-knig-dlya-programmistov-2020-05-05)
 - ▶️ **[70 YouTube-каналов для фронтенд-разработчика](https://proglib.io/p/70-youtube-kanalov-dlya-frontend-razrabotchika-2020-05-03)**
 - ▶️ **[50 русскоязычных YouTube-каналов о языках программирования](https://proglib.io/p/50-russkoyazychnyh-youtube-kanalov-o-yazykah-programmirovaniya-2020-04-22)**
@@ -109,7 +109,7 @@
 - 🔥 **[Как написать код, который полюбят все](https://proglib.io/p/kak-napisat-kod-kotoryy-polyubyat-vse-2020-03-17)**
 - [Как не «сгореть на работе», если ты программист](https://proglib.io/p/kak-ne-sgoret-na-rabote-esli-ty-programmist-2020-03-12)
 - 🕹️👾 [PICO-8 и TIC-80. Экскурсия в мир виртуальных консолей для создания ретро-игр](https://proglib.io/p/pico-8-i-tic-80-ekskursiya-v-mir-virtualnyh-konsoley-dlya-sozdaniya-retro-igr-2020-02-29)
-- [Как шифровать информацию с помощью роста кристаллов](https://proglib.io/p/kak-shifrovat-informaciyu-s-pomoshchyu-rosta-kristallov-2020-02-24)
+- [Как шифровать информацию с помощью роста кристаллов](https://proglib.io/p/kak-shifrovat-informaciyu-s-pomoshchyu-rosta-kristallov-2020-02-24) ([ист.](https://www.cell.com/matter/fulltext/S2590-2385(20)30024-2))
 - ▶️ [100+ лекций экспертов Постнауки об анализе данных, ИИ, роботах, математике и сетях](https://proglib.io/p/100-videolekciy-ekspertov-postnauki-2020-02-16)
 - [Перезаряжаем терминал: GitHub CLI в действии](https://proglib.io/p/perezaryazhaem-terminal-github-cli-v-deystvii-2020-02-14)
 - ▶️ [Автостопом по TED: 42 ярких выступления на темы вблизи IT](https://proglib.io/p/avtostopom-po-ted-42-yarkih-vystupleniya-na-temy-vblizi-it-2020-02-11)
