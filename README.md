@@ -41,7 +41,7 @@
 ### Нейронные сети и компьютерное зрение
 - 🙋 [Тест. Правда или ложь: что умеют нейросети?](https://proglib.io/tests/pravda-ili-lozh-chto-umeyut-neyroseti)
 - 🕹️👁️ [Нейросети в помощь геймдев-художнику: машинное обучение для создания игрового пиксель-арта](https://proglib.io/p/neyroseti-v-pomoshch-geymdev-hudozhniku-mashinnoe-obuchenie-dlya-sozdaniya-igrovogo-piksel-arta-2020-04-13) ([ист.](https://towardsdatascience.com/painting-pixel-art-with-machine-learning-5d21b260486))
-- ▶️ [Просто добавь нейросеть: 7 исторических фильмов в 4K и 60 FPS](https://proglib.io/p/prosto-dobav-neyroset-7-istoricheskih-filmov-v-4k-i-60-fps-2020-03-15)
+- ▶️👁️ [Просто добавь нейросеть: 7 исторических фильмов в 4K и 60 FPS](https://proglib.io/p/prosto-dobav-neyroset-7-istoricheskih-filmov-v-4k-i-60-fps-2020-03-15)
 - 🖍️👁️ [Учим искусственный интеллект раскрашивать контурные изображения персонажей аниме](https://proglib.io/p/sketch2color-uchim-iskusstvennyy-intellekt-raskrashivat-konturnye-izobrazheniya-personazhey-anime-2019-12-30) ([ист.](https://towardsdatascience.com/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb))
 - 💬 [Голосовой DeepFake, или Как работает технология клонирования голоса](https://proglib.io/p/golosovoy-deepfake-ili-kak-rabotaet-tehnologiya-klonirovaniya-golosa-2019-12-11)
 - 📝 [DeepFake-туториал: создаем собственный дипфейк в DeepFaceLab](https://proglib.io/p/deepfake-tutorial-sozdaem-sobstvennyy-dipfeyk-v-deepfacelab-2019-11-16) ([ист.](https://github.com/iperov/DeepFaceLab/))
@@ -83,6 +83,8 @@
 - [Создаем бота в Facebook на Python менее чем за 60 минут](https://proglib.io/p/facebook-bot-with-python) ([ист.](https://www.twilio.com/blog/2017/12/facebook-messenger-bot-python.html))
 
 ### Алгоритмические головоломки
+Это серия тщательно продуманных головоломок на логические рассуждения и алгоритмы программирования. Описания задач, иллюстрации и решения сведены в [блокноте Jupyter](https://github.com/matyushkin/lessons/blob/master/puzzles/puzzles.ipynb) ([Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/puzzles/puzzles.ipynb)).
+
 1. 👫 [Двойные фамилии](https://proglib.io/p/zadacha-o-dvoynyh-familiyah-2020-01-11)
 2. 😎 [Спрятанное решение](https://proglib.io/p/zadacha-o-spryatannom-reshenii-2020-01-11)
 3. 🦎 [Остров хамелеонов](https://proglib.io/p/zadacha-ob-ostrove-hameleonov-2020-01-13)
