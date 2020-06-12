@@ -11,6 +11,7 @@
 Внутри рубрик статьи расположены преимущественно в порядке от наиболее новых к более старым. Жирным выделены наиболее проработанные публикации:
 
 ### Python
+- 🗞️ [Новые возможности Python 3.9: мнения экспертов](https://proglib.io/p/novye-vozmozhnosti-python-3-9-mneniya-ekspertov-2020-06-12)
 - 🌟 [Динамическое выполнение выражений в Python: eval()](https://proglib.io/p/dinamicheskoe-vypolnenie-vyrazheniy-v-python-funkciya-eval-2020-05-14) ([Jupyter](eval_func/eval_func.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/eval_func/eval_func.ipynb)) ([ист.](https://realpython.com/python-eval-function/))
 - 🌟 [Всё, что нужно знать о декораторах Python](https://proglib.io/p/vse-chto-nuzhno-znat-o-dekoratorah-python-2020-05-09) ([Jupyter](decorators/decorators.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/decorators/decorators.ipynb)) ([ист.](https://realpython.com/primer-on-python-decorators/))
 - 🌟 [Как хранить объекты Python со сложной структурой](https://proglib.io/p/kak-hranit-obekty-python-so-slozhnoy-strukturoy-moduli-pickle-i-dill-2020-04-30) ([ист.](https://realpython.com/python-pickle-module/))
@@ -161,7 +162,7 @@
 * ▶️ подборка видео по определенной теме
 * 📝 инструкция, как что-то сделать
 * 🕹️ о разработке игр
-* 🗞️ статья новостного плана (потеряла актуальность)
+* 🗞️ статья новостного плана (могла потерять актуальность)
 * 🖼️ о рисовании или дизайне
 * 🧒 о математике и программировании для детей
 * 👁️ о различных аспектах компьютерного зрения
