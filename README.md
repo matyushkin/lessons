@@ -61,6 +61,7 @@
 - 👁️ [Наглядное введение в нейросети на примере распознавания цифр](https://proglib.io/p/neural-network-course)
 
 ### ML и общие вопросы Data Science
+- 👨‍🎓️ [Как научиться Data Science онлайн](https://proglib.io/p/kak-nauchitsya-data-science-onlayn-12-shagov-ot-novichka-do-profi-2020-06-30)
 - ▶️ [30 YouTube-каналов и плейлистов о Data Science](https://proglib.io/p/30-youtube-kanalov-i-pleylistov-o-data-science-2020-06-17)
 - 🗞️ [Что нового в Pandas 1.0?](https://proglib.io/p/chto-novogo-v-pandas-1-0-2020-01-23) ([ист.](https://towardsdatascience.com/whats-new-in-pandas-1-0-ffa99bd43a58))
 - [Обучение модели обнаружения объектов YOLO на пользовательском наборе данных](https://proglib.io/p/obuchenie-modeli-obnaruzheniya-obektov-yolo-na-polzovatelskom-nabore-dannyh-2020-01-21) ([ист.](https://towardsdatascience.com/training-a-yolov3-object-detection-model-with-a-custom-dataset-4981fa480af0))
