@@ -109,6 +109,7 @@
 17. 🐍 [Нарисовать змейку, выстроить зиккурат](https://proglib.io/p/para-algoritmicheskih-zadach-dlya-uspeshnogo-programmista-narisovat-zmeyku-vystroit-zikkurat-2020-04-19)
 
 ### Другие
+- ▶️📱[70 YouTube-каналов и плейлистов о мобильной разработке](https://proglib.io/p/70-youtube-kanalov-i-pleylistov-o-mobilnoy-razrabotke-2020-07-02)
 - 🌟 [JavaScript для Python-программистов: познание через сравнение](https://proglib.io/p/javascript-dlya-python-programmistov-poznanie-cherez-sravnenie-2020-05-29) ([ист.](https://realpython.com/python-vs-javascript/))
 - 📕 [10 книг по PHP: от новичка до профессионала](https://proglib.io/p/top-10-knig-po-php-ot-novichka-do-professionala-2020-05-24)
 - ▶️🌟 [50 YouTube-каналов для разработчиков игр](https://proglib.io/p/50-youtube-kanalov-dlya-razrabotchikov-igr-2020-05-13)
