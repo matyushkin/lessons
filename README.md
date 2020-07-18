@@ -11,6 +11,7 @@
 Внутри рубрик статьи расположены преимущественно в порядке от наиболее новых к более старым. Жирным выделены наиболее проработанные публикации:
 
 ### Python
+- [Тест на знание языка Python (15 вопросов)](https://proglib.io/tests/test-na-znanie-yazyka-python)
 - 🌟 [Робот в лабиринте: обрабатываем в Python очереди с приоритетом](https://proglib.io/p/robot-v-labirinte-obrabatyvaem-ocheredi-s-prioritetom-v-python-2020-07-07) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/heaps/heaps.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/heaps/heaps.ipynb)) ([ист.](https://realpython.com/python-heapq-module/))
 - 🗞️ [Новые возможности Python 3.9: мнения экспертов](https://proglib.io/p/novye-vozmozhnosti-python-3-9-mneniya-ekspertov-2020-06-12)
 - 🌟 [Динамическое выполнение выражений в Python: eval()](https://proglib.io/p/dinamicheskoe-vypolnenie-vyrazheniy-v-python-funkciya-eval-2020-05-14) ([Jupyter](eval_func/eval_func.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/eval_func/eval_func.ipynb)) ([ист.](https://realpython.com/python-eval-function/))
@@ -62,6 +63,7 @@
 - 👁️ [Наглядное введение в нейросети на примере распознавания цифр](https://proglib.io/p/neural-network-course)
 
 ### ML и общие вопросы Data Science
+- 🏢 [Как компании превращают данные в деньги: обзор российских практик Data Science](https://proglib.io/p/kak-kompanii-prevrashchayut-dannye-v-dengi-obzor-rossiyskih-praktik-data-science-2020-07-18)
 - 👨‍🎓️ [Как научиться Data Science онлайн](https://proglib.io/p/kak-nauchitsya-data-science-onlayn-12-shagov-ot-novichka-do-profi-2020-06-30)
 - ▶️ [30 YouTube-каналов и плейлистов о Data Science](https://proglib.io/p/30-youtube-kanalov-i-pleylistov-o-data-science-2020-06-17)
 - 🗞️ [Что нового в Pandas 1.0?](https://proglib.io/p/chto-novogo-v-pandas-1-0-2020-01-23) ([ист.](https://towardsdatascience.com/whats-new-in-pandas-1-0-ffa99bd43a58))
