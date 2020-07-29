@@ -12,7 +12,7 @@
 
 ### Python
 - 🤹 [Введение в объектно-ориентированное программирование (ООП) на Python](https://proglib.io/p/vvedenie-v-obektno-orientirovannoe-programmirovanie-oop-na-python-2020-07-23) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/oop/oop.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/oop/oop.ipynb)) ([ист.](https://realpython.com/python3-object-oriented-programming/))
-- [Тест на знание языка Python (15 вопросов)](https://proglib.io/tests/test-na-znanie-yazyka-python)
+- 🙋 [Тест на знание языка Python (15 вопросов)](https://proglib.io/tests/test-na-znanie-yazyka-python)
 - 🌟 [Робот в лабиринте: обрабатываем в Python очереди с приоритетом](https://proglib.io/p/robot-v-labirinte-obrabatyvaem-ocheredi-s-prioritetom-v-python-2020-07-07) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/heaps/heaps.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/heaps/heaps.ipynb)) ([ист.](https://realpython.com/python-heapq-module/))
 - 🗞️ [Новые возможности Python 3.9: мнения экспертов](https://proglib.io/p/novye-vozmozhnosti-python-3-9-mneniya-ekspertov-2020-06-12)
 - 🌟 [Динамическое выполнение выражений в Python: eval()](https://proglib.io/p/dinamicheskoe-vypolnenie-vyrazheniy-v-python-funkciya-eval-2020-05-14) ([Jupyter](eval_func/eval_func.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/eval_func/eval_func.ipynb)) ([ист.](https://realpython.com/python-eval-function/))
@@ -20,28 +20,28 @@
 - 🌟 [Как хранить объекты Python со сложной структурой](https://proglib.io/p/kak-hranit-obekty-python-so-slozhnoy-strukturoy-moduli-pickle-i-dill-2020-04-30) ([ист.](https://realpython.com/python-pickle-module/))
 - 📕 [ТОП-15 книг Python: от новичка до профессионала](https://proglib.io/p/top-15-knig-po-python-ot-novichka-do-professionala-2020-04-07)
 - 📝🌟 [Как подружить Python и базы данных SQL. Подробное руководство](https://proglib.io/p/kak-podruzhit-python-i-bazy-dannyh-sql-podrobnoe-rukovodstvo-2020-02-27), ([ист.](https://realpython.com/python-sql-libraries/))
-- [Python и динамическое программирование на примере задачи о рюкзаке](https://proglib.io/p/python-i-dinamicheskoe-programmirovanie-na-primere-zadachi-o-ryukzake-2020-02-04) ([ист.](https://towardsdatascience.com/choosing-fast-with-dynamic-programming-b6916da543f4))
+- 🔢 [Python и динамическое программирование на примере задачи о рюкзаке](https://proglib.io/p/python-i-dinamicheskoe-programmirovanie-na-primere-zadachi-o-ryukzake-2020-02-04) ([ист.](https://towardsdatascience.com/choosing-fast-with-dynamic-programming-b6916da543f4))
 - 📝 [Как опубликовать свою Python библиотеку на PyPI](https://proglib.io/p/kak-opublikovat-svoyu-python-biblioteku-na-pypi-2020-01-28) ([ист.](https://towardsdatascience.com/make-your-own-python-package-6d08a400fc2d))
 - 📝 [Веб-скрапинг по расписанию с Django и Heroku](https://proglib.io/p/veb-skraping-po-raspisaniyu-s-heroku-i-django-2020-01-17) ([ист.](https://towardsdatascience.com/scheduled-web-scraping-with-django-and-heroku-e832e1363c7a?source=rss----7f60cf5620c9---4))
-- [Иллюстрированное руководство по изменению формы массивов NumPy](https://proglib.io/p/illyustrirovannoe-rukovodstvo-po-izmeneniyu-formy-mnogomernyh-massivov-numpy-2020-01-12) ([ист.](https://towardsdatascience.com/reshaping-numpy-arrays-in-python-a-step-by-step-pictorial-tutorial-aed5f471cf0b))
+- 🔢 [Иллюстрированное руководство по изменению формы массивов NumPy](https://proglib.io/p/illyustrirovannoe-rukovodstvo-po-izmeneniyu-formy-mnogomernyh-massivov-numpy-2020-01-12) ([ист.](https://towardsdatascience.com/reshaping-numpy-arrays-in-python-a-step-by-step-pictorial-tutorial-aed5f471cf0b))
 - 🌟 [Итерируем правильно: 20 приемов использования в Python модуля itertools](https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03) ([Jupyter](itertools/common.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/itertools/common.ipynb))
 - 🌟 [Не изобретать велосипед, или Обзор модуля collections в Python](https://proglib.io/p/ne-izobretat-velosiped-ili-obzor-modulya-collections-v-python-2019-12-15) ([Jupyter](collections/collections.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/collections/collections.ipynb))
 - 🌟 [Назад в будущее: практическое руководство по путешествию во времени с Python](https://proglib.io/p/nazad-v-budushchee-prakticheskoe-rukovodstvo-po-puteshestviyu-vo-vremeni-s-python-2019-12-01) ([Jupyter](time/time_related.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/time/time_related.ipynb))
 - 🙋 [Тест на знания о необычном поведении Python](https://proglib.io/tests/test-na-obshchie-znaniya-dlya-middle-python-razrabotchika)
 - 🧒 [10 советов о том, как научить ребенка программировать на Python](https://proglib.io/p/10-sovetov-o-tom-kak-nauchit-rebenka-programmirovat-na-python-2019-10-12)
 - 📝 [Пишем программу для автоматического распознавания объектов с веб-камер](https://proglib.io/p/pishem-programmu-dlya-avtomaticheskogo-raspoznavaniya-obektov-s-veb-kamer-2019-10-05), ([ист.](https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/))
-- [Спасательный круг для собеседования на Python-разработчика](https://proglib.io/p/py-interview)
-- [Требования к Python-разработчику на мировом рынке 2019 года](https://proglib.io/p/python-dev-2019), ([ист.](https://hackernoon.com/what-do-companies-expect-from-python-devs-in-2019-f8b585a1ddf))
+- 🕴[Спасательный круг для собеседования на Python-разработчика](https://proglib.io/p/py-interview)
+- 🕴[Требования к Python-разработчику на мировом рынке 2019 года](https://proglib.io/p/python-dev-2019), ([ист.](https://hackernoon.com/what-do-companies-expect-from-python-devs-in-2019-f8b585a1ddf))
 - [Быстрый путеводитель по Python: cписки за 7 минут](https://proglib.io/p/python-lists) ([ист.](https://www.freecodecamp.org/news/a-quick-yet-complete-tour-of-lists-in-python3-in-just-seven-minutes-437e615110d0/))
 - 🤔 [Pythran: как заставить работать код Python со скоростью С++](https://proglib.io/p/pythran) ([ист.](https://medium.com/@olivier.borderies/pythran-python-at-c-speed-518f26af60e8))
 - ▶️ [Видео 10 лучших докладов о Python на конференции PyCon](https://proglib.io/p/top10-pycon) ([ист.](https://realpython.com/must-watch-pycon-talks/))
 - 🔗 [TOP-10 open source проектов на Python в сентябре 2018](https://proglib.io/p/python-opensources) ([ист.](https://medium.mybridge.co/python-open-source-of-the-month-v-aug-2018-9433979f586d))
 - [ТОП-15 трюков в Python 3, делающих код понятнее и быстрее](https://proglib.io/p/python-tricks)
 - 🔗 [ТОП-10 англоязычных публикаций по Python за апрель 2018](https://proglib.io/p/python-april-2018) ([ист.](https://github.com/Mybridge/python-articles/blob/master/src/05-2018.md))
-- [Парсинг сайтов на Python: подробный видеокурс и программный код](https://proglib.io/p/parsing-course)
+- ▶️ [Парсинг сайтов на Python: подробный видеокурс и программный код](https://proglib.io/p/parsing-course)
 - ▶️ [Регулярные выражения, пособие для новичков. Часть 1](https://habr.com/ru/post/115825/) [Часть 2](https://habr.com/ru/post/115436/)
-- [Как сделать из 123456789 число 100 или 0](https://habr.com/ru/post/115066/)
-- [Python(x, y)](https://habr.com/ru/post/113065/)
+- 🔢 [Как сделать из 123456789 число 100 или 0](https://habr.com/ru/post/115066/)
+- 👨‍🔬️ [Python(x, y)](https://habr.com/ru/post/113065/)
 - 👨‍🎓️ [Программирование и научные вычисления на языке Python (курс на Викиверситете)](https://ru.wikiversity.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_Python) – будьте осторожны, курс такой «древний», что в нем ещё использовался Python 2.
 
 ### Нейронные сети и компьютерное зрение
@@ -57,7 +57,7 @@
 - 🗞️ [TensorFlow умер. Да здравствует TensorFlow 2.0!](https://proglib.io/p/tensorflow2)
 - [Фреймворк глубокого обучения в 2019: выбираем из 10 лучших](https://proglib.io/p/dl-frameworks) ([ист.](https://www.youtube.com/watch?v=SJldOOs4vB8))
 - [7 трюков для глубокого обучения](https://proglib.io/p/deep-learning-tricks) ([ист.](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53))
-- [Наглядно объясняем операцию свертки в моделях глубокого обучения](https://proglib.io/p/convolution) ([ист.](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1))
+- 🔢 [Наглядно объясняем операцию свертки в моделях глубокого обучения](https://proglib.io/p/convolution) ([ист.](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1))
 - 👨‍🎓️ [Учебный план изучения основ глубокого обучения и нейросетей](https://proglib.io/p/deep-learning-in-6-weeks)
 - [TensorFlow.js: машинное обучение на JavaScript с доставкой в браузер](https://proglib.io/p/tensorflow-js)
 - 🗞️ [Популяционное обучение нейросетей](https://proglib.io/p/population-deep-learning) ([ист.](https://deepmind.com/blog/population-based-training-neural-networks/))
@@ -68,13 +68,13 @@
 - 👨‍🎓️ [Как научиться Data Science онлайн](https://proglib.io/p/kak-nauchitsya-data-science-onlayn-12-shagov-ot-novichka-do-profi-2020-06-30)
 - ▶️ [30 YouTube-каналов и плейлистов о Data Science](https://proglib.io/p/30-youtube-kanalov-i-pleylistov-o-data-science-2020-06-17)
 - 🗞️ [Что нового в Pandas 1.0?](https://proglib.io/p/chto-novogo-v-pandas-1-0-2020-01-23) ([ист.](https://towardsdatascience.com/whats-new-in-pandas-1-0-ffa99bd43a58))
-- [Обучение модели обнаружения объектов YOLO на пользовательском наборе данных](https://proglib.io/p/obuchenie-modeli-obnaruzheniya-obektov-yolo-na-polzovatelskom-nabore-dannyh-2020-01-21) ([ист.](https://towardsdatascience.com/training-a-yolov3-object-detection-model-with-a-custom-dataset-4981fa480af0))
+- 👁️ [Обучение модели обнаружения объектов YOLO на пользовательском наборе данных](https://proglib.io/p/obuchenie-modeli-obnaruzheniya-obektov-yolo-na-polzovatelskom-nabore-dannyh-2020-01-21) ([ист.](https://towardsdatascience.com/training-a-yolov3-object-detection-model-with-a-custom-dataset-4981fa480af0))
 - ▶️ [7 лучших видео TED по тематике Data Science](https://proglib.io/p/7-luchshih-video-ted-po-tematike-data-science-2020-01-20) ([ист.](https://towardsdatascience.com/best-ted-talks-for-data-science-11b699544f))
 - [Почему мы пишем инфраструктуру машинного обучения на Go, а не на Python](https://proglib.io/p/opyt-razrabotki-pochemu-my-pishem-infrastrukturu-mashinnogo-obucheniya-na-go-a-ne-na-python-2020-01-15) ([ист.](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76))
 - 📊 [Анализ данных с помощью одной строки на Python](https://proglib.io/p/analiziruy-dannye-s-pomoshchyu-odnoy-stroki-koda-na-python-2019-10-02) ([ист.](https://towardsdatascience.com/exploring-your-data-with-just-1-line-of-python-4b35ce21a82d))
-- [6 крупных open source проектов в сфере Data Science](https://proglib.io/p/6-krupnyh-open-source-proektov-v-sfere-data-science-2019-11-20) ([ист.](https://www.analyticsvidhya.com/blog/2019/11/6-open-source-data-science-projects/))
+- 🔗 [6 крупных open source проектов в сфере Data Science](https://proglib.io/p/6-krupnyh-open-source-proektov-v-sfere-data-science-2019-11-20) ([ист.](https://www.analyticsvidhya.com/blog/2019/11/6-open-source-data-science-projects/))
 - [Big Data: размер имеет значение](https://proglib.io/p/big-data-razmer-imeet-znachenie-2019-10-19)
-- [7 фреймворков автоматического машинного обучения](https://proglib.io/p/auto-ml)
+- 🔗 [7 фреймворков автоматического машинного обучения](https://proglib.io/p/auto-ml)
 - 🗞️ [Встречайте: версия 4.0 графической библиотеки plotly для Python](https://proglib.io/p/plotly-4)
 - 📊 [Забудьте о matplotlib: визуализация данных в Python вместе с plotly](https://proglib.io/p/plotly) ([ист.](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e))
 - ➗ [Теорема Байеса: Святой Грааль Data Science](https://proglib.io/p/bayes-theorem) ([ист.](https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb))
@@ -82,14 +82,14 @@
 - [Искусственный интеллект и рост вычислительных мощностей](https://proglib.io/p/ai-and-compute) ([ист.](https://blog.openai.com/ai-and-compute/))
 - ▶️ [Мнения людей из индустрии Data Science о развитии отрасли](https://proglib.io/p/data-science-dialogues)
 - [ТОП-10 мировых публикаций по машинному обучению за апрель 2018](https://proglib.io/p/ml-april-2018) ([ист.](https://github.com/Mybridge/machine-learning-articles))
-- [10 рецептов машинного обучения от разработчиков Google](https://proglib.io/p/google-ml-recipes)
+- ▶️ [10 рецептов машинного обучения от разработчиков Google](https://proglib.io/p/google-ml-recipes)
 - [10 строк для диагностики болезни Паркинсона с помощью XGBoost](https://proglib.io/p/xgboost) ([ист.](https://towardsdatascience.com/detect-parkinsons-with-10-lines-of-code-intro-to-xgboost-51a4bf76b2e6))
 - 📝 [JupyterLab и Jupyter Notebook — мощные инструменты Data Science](https://proglib.io/p/jupyter)
 - 👨‍🎓️ [От новичка до профи в машинном обучении](https://proglib.io/p/ml-3months)
 - [Стартап в сфере искусственного интеллекта в 2018](https://proglib.io/p/ai-startup) ([ист.](https://www.youtube.com/watch?v=9bbS-trc8ys))
-- [Трейдинг и машинное обучение с подкреплением](https://proglib.io/p/trade-learning) ([ист.](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/))
+- 📈 [Трейдинг и машинное обучение с подкреплением](https://proglib.io/p/trade-learning) ([ист.](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/))
 - [Python и R: что выбрать для Data Science в 2018?](https://proglib.io/p/python-vs-r)
-- [Создаем бота в Facebook на Python менее чем за 60 минут](https://proglib.io/p/facebook-bot-with-python) ([ист.](https://www.twilio.com/blog/2017/12/facebook-messenger-bot-python.html))
+- 🤖 [Создаем бота в Facebook на Python менее чем за 60 минут](https://proglib.io/p/facebook-bot-with-python) ([ист.](https://www.twilio.com/blog/2017/12/facebook-messenger-bot-python.html))
 
 ### Алгоритмические головоломки
 Это серия тщательно продуманных головоломок на логические рассуждения и алгоритмы программирования. Описания задач, иллюстрации и решения сведены в [блокноте Jupyter](https://github.com/matyushkin/lessons/blob/master/puzzles/puzzles.ipynb) ([Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/puzzles/puzzles.ipynb)).
@@ -132,7 +132,7 @@
 - 🐈 [Перезаряжаем терминал: GitHub CLI в действии](https://proglib.io/p/perezaryazhaem-terminal-github-cli-v-deystvii-2020-02-14)
 - ▶️ [Автостопом по TED: 42 ярких выступления на темы вблизи IT](https://proglib.io/p/avtostopom-po-ted-42-yarkih-vystupleniya-na-temy-vblizi-it-2020-02-11)
 - 🖼️ [Рисуем, программируя. Машинная генерация художественных узоров в векторных полях](https://proglib.io/p/risuem-programmiruya-mashinnaya-generaciya-hudozhestvennyh-uzorov-v-vektornyh-polyah-2020-02-06) ([ист.](https://tylerxhobbs.com/essays/2020/flow-fields))
-- [«Я тебя по IP вычислю»: как хакеры рассекречивают звенья цепи Tor](https://proglib.io/p/deanonimizaciya-cepochek-uzlov-tor-2020-02-04) ([ист.](https://www.hackerfactor.com/blog/index.php?/archives/868-Deanonymizing-Tor-Circuits.html))
+- [«Я тебя по IP вычислю»: как рассекречивают звенья цепи Tor](https://proglib.io/p/deanonimizaciya-cepochek-uzlov-tor-2020-02-04) ([ист.](https://www.hackerfactor.com/blog/index.php?/archives/868-Deanonymizing-Tor-Circuits.html))
 - 🖼️📊 [Rough.js: как заставить компьютер рисовать «от руки»](https://proglib.io/p/rough-js-kak-zastavit-kompyuter-risovat-ot-ruki-2020-01-29)
 - 🤔 [Как на C++ быстро заполнить нулями большой массив?](https://proglib.io/p/kak-na-c-bystro-zapolnit-nulyami-bolshoy-massiv-2020-01-22) ([ист.](https://lemire.me/blog/2020/01/20/filling-large-arrays-with-zeroes-quickly-in-c/))
 - 🖼️ [Графический приём, благодаря которому пользователи будут регистрироваться чаще](https://proglib.io/p/graficheskiy-priem-blagodarya-kotoromu-polzovateli-budut-registrirovatsya-chashche-2020-01-20) ([ист.](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/))
@@ -165,6 +165,7 @@
 * ист. – ссылка на основной источник публикации
 * 🌟 мне нравится, что получилось
 * 👨‍🎓️ подборка курсов или учебный план 
+* 🙋 тест
 * 🔗 сборник ссылок
 * ▶️ подборка видео по определенной теме
 * 📝 инструкция, как что-то сделать
