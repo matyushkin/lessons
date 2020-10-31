@@ -67,6 +67,7 @@
 - 👁️ [Наглядное введение в нейросети на примере распознавания цифр](https://proglib.io/p/neural-network-course)
 
 ### ML и общие вопросы Data Science
+- 🔗 [Структурированная подборка бесплатных ресурсов по тематикам Data Science и Machine Learning](https://github.com/matyushkin/ds)
 - 🏢 [Как компании превращают данные в деньги: обзор российских практик Data Science](https://proglib.io/p/kak-kompanii-prevrashchayut-dannye-v-dengi-obzor-rossiyskih-praktik-data-science-2020-07-18)
 - 👨‍🎓️ [Как научиться Data Science онлайн](https://proglib.io/p/kak-nauchitsya-data-science-onlayn-12-shagov-ot-novichka-do-profi-2020-06-30)
 - ▶️ [30 YouTube-каналов и плейлистов о Data Science](https://proglib.io/p/30-youtube-kanalov-i-pleylistov-o-data-science-2020-06-17)

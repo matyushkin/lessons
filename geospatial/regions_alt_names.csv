@@ -1,0 +1,86 @@
+Region_ID,Region,Region_eng,Varnames
+77,Москва,Moscow,Moscow City
+50,Московская область,Moscow region,Moskva|Mosca|Moscou|Moscow|Moskau|Moskova|Moskovskaya
+23,Краснодарский край,Krasnodar region,Krasnodar|Cossacks of the Black Sea|Kuban|Kubanskaya|Yekaterinodar|Krasnodarskiy Kray
+78,Санкт-Петербург,St. Petersburg,City of St. Petersburg|Sankt-Peterburg gorsovet
+66,Свердловская область,Sverdlovsk region,Sverdlovsk|Yekaterinburg|Sverdlovskaya Oblast
+61,Ростовская область,Rostov region,Rostov|Province of the Don Cossacks|Provinz des Donischen Heeres|Voyska Donskovo|Rostovskaya Oblast
+2,Республика Башкортостан,Republic of Bashkortostan,Bashkortostan|Bashkir|Bashkiriya|Bashkirskaya A.S.S.R.|Republic of Bashkortostan|Respublika Bashkortostan
+16,Республика Татарстан,Republic of Tatarstan,Tatarstan|Kazan|Kazanskaya G.|Tatar A.S.S.R.|Tatarskaya A.S.S.R.|Republic of Tatarstan|Respublika Tatars
+74,Челябинская область,Chelyabinsk region,Chelyabinsk|Chelyabinskaya Oblast
+52,Нижегородская область,Nizhny Novgorod Region,Nizhegorod|Gor'kiy|Gor'kovskaya|Gorky|Nizhegorodskaya|Nizhniy-Novgorod|Nizhegorodskaya Oblast 
+63,Самарская область,Samara Region,Samara|Kuybyshev|Kuybyshevskaya|Samarskaya Oblast
+5,Республика Дагестан,The Republic of Dagestan,Dagestan|Dagestanskaya A.S.S.R.|Daghestan|Republic of Dagestan|Respublika Dagestan|Dagistan
+24,Красноярский край,Krasnoyarsk region,Krasnoyarsk|Krasnoyarskiy Kray|Yeniseisk|Yeniseyskaya G.
+26,Ставропольский край,Stavropol region,Stavropol'|Stavropol'skiy Kray|Stavropolskiy Kray
+54,Новосибирская область,Novosibirsk region,Novosibirsk|Novosibirskaya Oblast
+42,Кемеровская область,Kemerovo region,Kemerovo|Kemerovskaya Oblast
+59,Пермский край,Perm,Perm'|Molotov|Permskaya Oblast
+34,Волгоградская область,Volgograd region,Volgograd|Stalingrad|Volgogradskaya Oblast
+64,Саратовская область,Saratov region,Saratov|Saratovskaya Oblast
+38,Иркутская область,Irkutsk region,Irkutsk|Irkutskaya Oblast
+36,Воронежская область,Voronezh region,Voronezh|Voronezhskaya Oblast
+22,Алтайский край,Altai region,Altay|Altayskiy Kray
+56,Оренбургская область,Orenburg region,Orenburg|Chkalov|Orenburgskaya|Orenburgskaya Oblast
+55,Омская область,Omsk region,Omsk|Omskaya Oblast
+82,Республика Крым,Republic of Crimea,Crimea|Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym
+25,Приморский край,Primorsky Krai,Primor'ye|Küsten-Gebiet|Maritime Territory|Primorsk|Primorskiy Kray
+47,Ленинградская область,Leningrad region,Leningrad|Saint Petersburg|Sankt-Peterburgskaya G.|Leningradskaya Oblast
+86,Ханты-Мансийский АО,Khanty-Mansiysk,Khanty-Mansiy|Khanty-Mansiysk|Khanty-Mansiyskiy A.Okr.|Khanty-Mansiyskiy A.Okr.-Yugra|Khanty-Mansiyskiy Aok
+31,Белгородская область,Belgorod region,Belgorod|Belgorodskaya Oblast 
+72,Тюменская область,Tyumen region,Tyumen'|Tobol'sk|Tobol'skaya G.|Tyumenskaya Oblast
+18,Удмуртская Республика,Udmurt republic,Udmurt|Udmurtiya|Udmurt Republic|Udmurtskaya A.S.S.R.|Udmurtskaya Respublika 
+95,Чеченская Республика,Chechen Republic,Chechnya|Cecenia|Chechenia|Chechênia|Tchetchnia|Chechen-Ingush A.S.S.R.|Checheno-Ingushetia|Checheno-Ingushetia
+71,Тульская область,Tula region,Tula|Tul'skaya|Tulskaya Oblast
+33,Владимирская область,Vladimir region,Vladimir|Vladimirskaya Oblast
+27,Хабаровский край,Khabarovsk region,Khabarovsk|Khabarovskiy Kray
+58,Пензенская область,Penza region,Penza|Penzenskaya Oblast
+43,Кировская область,Kirov region,Kirov|Vyatka|Vyatskaya G.|Kirovskaya Oblast
+69,Тверская область,Tver region,Tver'|Kalinin|Kalininskaya|Tverskaya Oblast
+76,Ярославская область,Yaroslavl region,Yaroslavl'|Yaroslavskaya Oblast
+73,Ульяновская область,Ulyanovsk region,Ul'yanovsk|Simbirsk|Simbirskaya G.|Ul'yanovskaya Oblast
+21,Республика Чувашия,Chuvash Republic,Chuvash|Chuvashskaya A.S.S.R.|Chuvashskaya Respublika|Chuvashiya|Chuvash Republic
+32,Брянская область,Bryansk region,Bryansk|Bryanskaya Oblast
+35,Вологодская область,Vologda Region,Vologda|Vologodskaya Oblast
+48,Липецкая область,Lipetsk region,Lipetsk|Lipetskaya Oblast
+62,Рязанская область,Ryazan Oblast,Ryazan'|Ryazanskaya Oblast|Ryazanskaya Oblast
+46,Курская область,Kursk region,Kursk|Kurskaya Oblast 
+29,Архангельская область,Arkhangelsk region,Arkhangel'sk|Arcangelo|Archangel|Archangelsk|Arkhangelskaya Oblast
+70,Томская область,Tomsk region,Tomsk|Tomskaya Oblast
+75,Забайкальский край,Zabaykalsky Krai,Zabaikalskiy Krai
+39,Калининградская область,Kaliningrad region,Kaliningrad|Kaliningradskaya Oblast
+68,Тамбовская область,Tambov Region,Tambov|Tambovskaya Oblast
+30,Астраханская область,Astrakhan region,Astrakhan'|Astrachan|Astrakhanskaya Oblast
+40,Калужская область,Kaluga region,Kaluga|Kaluzhskaya Oblast
+37,Ивановская область,Ivanovo region,Ivanovo|Ivanovskaya Oblast
+3,Республика Бурятия,The Republic of Buryatia,Buryat|Buryatiya|Buryat-Mongol A.S.S.R.|Republic of Buryatia|Buryatskaya A.S.S.R.
+14,Республика Саха (Якутия),The Republic of Sakha (Yakutia),Sakha|Republic of Sakha|Yakutia-Sakha|Yakutsk|Yakut A.S.S.R.|Yakutskaya A.S.S.R.|Respublika Sakha
+67,Смоленская область,Smolensk region,Smolensk|Smolenskaya Oblast
+7,Кабардино-Балкарская Республика,Kabardino-Balkar Republic,Kabardin-Balkar|Kabardin A.S.S.R.|Kabardino-Balkarskaya A.S.S.R.|Kabardino-Balkariya|Kabardino-Balkarsk|Kabard|Kabardino-Balkarskaya Republic
+45,Курганская область,Kurgan region,Kurgan|Kurganskaya Oblast
+11,Республика Коми,Komi Republic,Komi|Komi A.S.S.R.|Republic of Komi|Respublika Komi
+13,Республика Мордовия,The Republic of Mordovia,Mordovia|Mordov|Mordvian Autonomous Republic|Mordvinia|Republic of Mordovia|Mordovian A.S.S.R.
+28,Амурская область,Amurskaya Oblast,Amur|Amurskaya Oblast
+51,Мурманская область,Murmansk region,Murmansk|Murmanskaya Oblast
+57,Орловская область,Oryol Region,Orel|Orlovskaya|Or'ol|Oryol|Orlovskaya Oblast
+15,Республика Северная Осетия - Алания,Republic of North Ossetia - Alania,North Ossetia|Kuzey Osetya|Respublika Severnaya Osetiya|Severnaya Osetiya-Alaniya|North Ossetian A.S.S.R.|Republic of North Osetia-Alania
+12,Республика Марий Эл,Mari El Republic,Mariy-El|Mari|Mari-El|Republic of Mari El|Mariyskaya A.S.S.R.|Respublika Mariy El
+44,Костромская область,Kostroma region,Kostroma|Kostromskaya Oblast
+60,Псковская область,Pskov region,Pskov|Pskovskaya Oblast
+10,Республика Карелия,The Republic of Karelia,Karelia|Karelian A.S.S.R.|Karelo-Finnish A.S.S.R.|Karel'skaya A.S.S.R.|Olonets|Olonetskaya G.|Kareliya|Republic of Karelia
+53,Новгородская область,Novgorod region,Novgorod|Novgorodskaya Oblast
+89,Ямало-Ненецкий АО,Yamalo-Nenets Autonomous Okrug,Yamal-Nenets|Yamalo-Nenetskiy A. Okrug
+19,Республика Хакасия,The Republic of Khakassia,Khakass|Khakassiya|Republic of Khakasia|Khakasskaya A.Obl.|Respublika Khakasiya|Republic of Khakasia
+6,Республика Ингушетия,The Republic of Ingushetia,Ingush|Ingouchie|Inguchétia|Inguschetien|Ingushetia|Ingushetiya|Ingush Republic|Ingushskaya Respublika|Respublika Ingushetiya
+65,Сахалинская область,Sakhalin region,Sakhalin|Sakhalinskaya Oblast
+9,Карачаево-Черкесская Республика,Karachay-Cherkess Republic,Karachay-Cherkess|Karaçay-Çerkes|Karachay-Cherkessiya|Karachayevo-Cherkesskaya Respublika|Karachayevo-Cherkessiya|Karachayevo-Cherkess Republic
+1,Республика Адыгея,Republic of Adygea,Adygey|Adygea|Adygeya|Adygheya|Republic of Adygeya|Adygeyskaya A.Obl.|Respublika Adygeya
+92,Севастополь,Sevastopol,Sevastopol'|Sebastopol
+17,Республика Тыва,Tyva Republic,Tuva|Respublika Tyva|Republic of Tuva|Tyva|Tuvinskaya A.S.S.R.|Republic of Tyva
+41,Камчатский край,Kamchatka Krai,Kamchatka|Kamï¿½atka|Kamchatskaya Oblast
+8,Республика Калмыкия,Republic of Kalmykia,Kalmyk|Kalmykiya|Khalmg Tangch|Republic of Kalmykia|Kalmytskaya A.S.S.R.|Respublika Kalmykiya
+4,Республика Алтай,Altai Republic,Gorno-Altay|Gorno-Altayskaya A.Obl.|Respublika Altay|Oirot|Republic of Altai
+79,Еврейская автономная область,Jewish Autonomous Region,Yevrey|Den jødiske autonome oblasten|Evrey|Jewish A.Obl.|Yahudi|Yevreyskaya A.Obl.|Evreyskaya AOb
+49,Магаданская область,Magadan Region,Maga Buryatdan|Magadanskaya Oblast
+87,Чукотский автономный округ,Chukotka Autonomous Okrug,Chukot|Chukotka|Chukotskiy Aok
+83,Ненецкий автономный округ,Nenets Autonomous Okrug,Nenets|Nenetskiy A.Okr.|Nenetskiy Aok
