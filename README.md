@@ -12,7 +12,7 @@
 
 ### Python
 - 🐍🗄️ [Управление данными с помощью Python, SQLite и SQLAlchemy
-](https://proglib.io/p/upravlenie-dannymi-s-pomoshchyu-python-sqlite-i-sqlalchemy-2020-10-21)
+](https://proglib.io/p/upravlenie-dannymi-s-pomoshchyu-python-sqlite-i-sqlalchemy-2020-10-21) ([ист.](https://realpython.com/python-sqlite-sqlalchemy/))
 - 🤹 [Введение в объектно-ориентированное программирование (ООП) на Python](https://proglib.io/p/vvedenie-v-obektno-orientirovannoe-programmirovanie-oop-na-python-2020-07-23) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/oop/oop.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/oop/oop.ipynb)) ([ист.](https://realpython.com/python3-object-oriented-programming/))
 - 🙋 [Тест на знание языка Python (15 вопросов)](https://proglib.io/tests/test-na-znanie-yazyka-python)
 - 🌟 [Робот в лабиринте: обрабатываем в Python очереди с приоритетом](https://proglib.io/p/robot-v-labirinte-obrabatyvaem-ocheredi-s-prioritetom-v-python-2020-07-07) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/heaps/heaps.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/heaps/heaps.ipynb)) ([ист.](https://realpython.com/python-heapq-module/))
