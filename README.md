@@ -11,6 +11,7 @@
 Внутри рубрик статьи расположены преимущественно в порядке от наиболее новых к более старым. Жирным выделены наиболее проработанные публикации:
 
 ### Python
+- 🧩 [Кэширование в Python: алгоритм LRU](https://proglib.io/p/keshirovanie-v-python-algoritm-lru-2020-11-17) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/caching/lru-cache.ipynb)) ([ист.](https://realpython.com/lru-cache-python/))
 - 🗄️ [Управление данными с помощью Python, SQLite и SQLAlchemy
 ](https://proglib.io/p/upravlenie-dannymi-s-pomoshchyu-python-sqlite-i-sqlalchemy-2020-10-21) ([ист.](https://realpython.com/python-sqlite-sqlalchemy/))
 - 🤹 [Введение в объектно-ориентированное программирование (ООП) на Python](https://proglib.io/p/vvedenie-v-obektno-orientirovannoe-programmirovanie-oop-na-python-2020-07-23) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/oop/oop.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/oop/oop.ipynb)) ([ист.](https://realpython.com/python3-object-oriented-programming/))
