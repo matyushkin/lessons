@@ -9,6 +9,7 @@
 Внутри рубрик статьи расположены преимущественно в обратном хронологическом порядке.
 
 ### Python
+- ⛱️ [Как правильно ничего не делать в Python: инструкция pass](https://proglib.io/p/kak-pravilno-nichego-ne-delat-v-python-instrukciya-pass-2020-12-19) ([ист.](https://realpython.com/python-pass/))
 - 🧩 [Кэширование в Python: алгоритм LRU](https://proglib.io/p/keshirovanie-v-python-algoritm-lru-2020-11-17) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/caching/lru-cache.ipynb)) ([ист.](https://realpython.com/lru-cache-python/))
 - 🗄️ [Управление данными с помощью Python, SQLite и SQLAlchemy
 ](https://proglib.io/p/upravlenie-dannymi-s-pomoshchyu-python-sqlite-i-sqlalchemy-2020-10-21) ([ист.](https://realpython.com/python-sqlite-sqlalchemy/))
