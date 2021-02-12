@@ -9,6 +9,7 @@
 Внутри рубрик статьи расположены преимущественно в обратном хронологическом порядке.
 
 ### Python
+- [Микросервисная архитектура на примере Python и gRPC](https://proglib.io/p/mikroservisnaya-arhitektura-na-primere-python-i-grpc-2021-02-12) ([ист.](https://realpython.com/python-microservices-grpc/))
 - [Как в Python применяются вложенные функции](https://proglib.io/p/kak-v-python-primenyayutsya-vlozhennye-funkcii-2021-02-09) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/python_common/inner_functions.ipynb)) ([Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/python_common/inner_functions.ipynb)) ([ист.](https://realpython.com/inner-functions-what-are-they-good-for/))
 - 🗄️ [Python и MySQL: практическое введение](https://proglib.io/p/python-i-mysql-prakticheskoe-vvedenie-2021-01-06) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/databases/mysql.ipynb)) ([ист.](https://realpython.com/python-mysql/))
 - ⛱️ [Как правильно ничего не делать в Python: инструкция pass](https://proglib.io/p/kak-pravilno-nichego-ne-delat-v-python-instrukciya-pass-2020-12-19) ([ист.](https://realpython.com/python-pass/))
