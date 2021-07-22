@@ -9,6 +9,7 @@
 Внутри рубрик статьи расположены преимущественно в обратном хронологическом порядке.
 
 ### Python
+- 🔩 [Полный фуллстек: пишем сайт на Django, Vue и GraphQL](https://proglib.io/p/polnyy-fullstek-pishem-sayt-na-django-vue-i-graphql-2021-07-22) ([ист.](https://proglib.io/p/polnyy-fullstek-pishem-sayt-na-django-vue-i-graphql-2021-07-22))
 - [Помнить всё. Как работает память в Python](https://proglib.io/p/pomnit-vse-kak-rabotaet-pamyat-v-python-2021-03-14)
 - [Python и API: комбо для автоматизации работы с публичными данными](https://proglib.io/p/python-i-api-prevoshodnoe-kombo-dlya-avtomatizacii-raboty-s-publichnymi-dannymi-2021-02-26) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/APIs/python_apis.ipynb)) ([ист.](https://realpython.com/python-api/))
 - [Микросервисная архитектура на примере Python и gRPC](https://proglib.io/p/mikroservisnaya-arhitektura-na-primere-python-i-grpc-2021-02-12) ([ист.](https://realpython.com/python-microservices-grpc/))
