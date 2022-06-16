@@ -128,6 +128,7 @@
 ### Другие
 - 👨‍🎓️ [Stepik-курс «Статьи для IT: как объяснять и распространять значимые идеи»](https://stepik.org/course/101672/)
 - 👨‍🎓️ [Stepik-курс «Наноматериалы»](https://stepik.org/course/52514)
+- [Meet Airtable – cloud database in a spreadsheet format (англ.)](https://blog.apifornia.com/blog/meet-airtable-cloud-database-in-a-spreadsheet-format/) 
 - [How to choose the NoCode workflow platform (англ.)](https://blog.apifornia.com/blog/how-to-choose-the-nocode-workflow-platform/)
 - [To code or not to code (англ.)](https://blog.apifornia.com/blog/to-code-or-not-to-code/)
 - [Mapping the NoCode Landscape (англ.)](https://blog.apifornia.com/blog/mapping-the-nocode-landscape-2/)
