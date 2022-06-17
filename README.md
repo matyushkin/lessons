@@ -125,13 +125,16 @@
 16. 🤷 [Собеседование и семь гномов: задачи с интервью в IT-компаниях](https://proglib.io/p/sobesedovanie-i-sem-gnomov-zadachi-s-intervyu-v-it-kompaniyah-2020-02-22)
 17. 🐍 [Нарисовать змейку, выстроить зиккурат](https://proglib.io/p/para-algoritmicheskih-zadach-dlya-uspeshnogo-programmista-narisovat-zmeyku-vystroit-zikkurat-2020-04-19)
 
+### Articles published in English only
+- [Meet Airtable – cloud database in a spreadsheet format](https://blog.apifornia.com/blog/meet-airtable-cloud-database-in-a-spreadsheet-format/) 
+- [How to choose the NoCode workflow platform](https://blog.apifornia.com/blog/how-to-choose-the-nocode-workflow-platform/)
+- [To code or not to code](https://blog.apifornia.com/blog/to-code-or-not-to-code/)
+- [Mapping the NoCode Landscape](https://blog.apifornia.com/blog/mapping-the-nocode-landscape-2/)
+- [Airtable as a CRM: Is it Good Enough?](https://blog.apifornia.com/blog/airtable-as-a-crm-is-it-good-enough/)
+
 ### Другие
 - 👨‍🎓️ [Stepik-курс «Статьи для IT: как объяснять и распространять значимые идеи»](https://stepik.org/course/101672/)
 - 👨‍🎓️ [Stepik-курс «Наноматериалы»](https://stepik.org/course/52514)
-- [Meet Airtable – cloud database in a spreadsheet format (англ.)](https://blog.apifornia.com/blog/meet-airtable-cloud-database-in-a-spreadsheet-format/) 
-- [How to choose the NoCode workflow platform (англ.)](https://blog.apifornia.com/blog/how-to-choose-the-nocode-workflow-platform/)
-- [To code or not to code (англ.)](https://blog.apifornia.com/blog/to-code-or-not-to-code/)
-- [Mapping the NoCode Landscape (англ.)](https://blog.apifornia.com/blog/mapping-the-nocode-landscape-2/)
 - ▶️📱[70 YouTube-каналов и плейлистов о мобильной разработке](https://proglib.io/p/70-youtube-kanalov-i-pleylistov-o-mobilnoy-razrabotke-2020-07-02)
 - 🌟 [JavaScript для Python-программистов: познание через сравнение](https://proglib.io/p/javascript-dlya-python-programmistov-poznanie-cherez-sravnenie-2020-05-29) ([ист.](https://realpython.com/python-vs-javascript/))
 - 📕 [10 книг по PHP: от новичка до профессионала](https://proglib.io/p/top-10-knig-po-php-ot-novichka-do-professionala-2020-05-24)
@@ -178,6 +181,7 @@
 - [Создаем первый смарт-контракт на Ethereum менее чем за 60 минут](https://proglib.io/p/smart-contract) ([ист.](https://medium.com/crypto-currently/build-your-first-smart-contract-fc36a8ff50ca))
 - [Импульсные нейронные сети: мозг в компьютере](https://proglib.io/p/spiking-neural-networks) ([ист.](https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b))
 - 🧒 [Как помочь ребенку выучить таблицу умножения](https://habr.com/ru/post/126043/)
+
 
 ---- 
 ## Принятые обозначения
