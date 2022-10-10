@@ -126,18 +126,18 @@
 17. 🐍 [Нарисовать змейку, выстроить зиккурат](https://proglib.io/p/para-algoritmicheskih-zadach-dlya-uspeshnogo-programmista-narisovat-zmeyku-vystroit-zikkurat-2020-04-19)
 
 
-### Articles published only in English
+### Nocode (for English speakers)
 
-- [Meet Airtable – cloud database in a spreadsheet format](https://apifornia.com/blog/meet-airtable-cloud-database-in-a-spreadsheet-format/) 
-- [How to choose the NoCode workflow platform](https://apifornia.com/blog/how-to-choose-the-nocode-workflow-platform/)
-- [To code or not to code](https://apifornia.com/blog/to-code-or-not-to-code/)
-- [Mapping the NoCode Landscape](https://apifornia.com/blog/mapping-the-nocode-landscape-2/)
-- [Airtable as a CRM: Is it Good Enough?](https://apifornia.com/blog/airtable-as-a-crm-is-it-good-enough/)
-- [How to choose a full-stack website builder](https://apifornia.com/blog/how-to-choose-a-full-stack-website-builder/)
-- [Visual programming. How to create a digital product without touching the keyboard](https://apifornia.com/blog/visual-programming-how-to-create-a-digital-product-without-touching-the-keyboard/)
-- NoCode MVP: [The Concept](https://apifornia.com/blog/nocode-mvp-concept/), [The Services](https://apifornia.com/blog/nocode-mvp-the-services/), [After the Launch](https://apifornia.com/blog/nocode-mvp-after-launch/)
-- [A Brief History of NoCode Tools](https://apifornia.com/blog/brief-history-of-nocode/)
-
+- 🔢 [Meet Airtable – cloud database in a spreadsheet format](https://apifornia.com/blog/meet-airtable-cloud-database-in-a-spreadsheet-format/) 
+- 🖇️ [How to choose the NoCode workflow platform](https://apifornia.com/blog/how-to-choose-the-nocode-workflow-platform/)
+- 📝 [To code or not to code](https://apifornia.com/blog/to-code-or-not-to-code/)
+- ⛰️ [Mapping the NoCode Landscape](https://apifornia.com/blog/mapping-the-nocode-landscape-2/)
+- 🔢 [Airtable as a CRM: Is it Good Enough?](https://apifornia.com/blog/airtable-as-a-crm-is-it-good-enough/)
+- 🏗️ [How to choose a full-stack website builder](https://apifornia.com/blog/how-to-choose-a-full-stack-website-builder/)
+- 👁️ [Visual programming. How to create a digital product without touching the keyboard](https://apifornia.com/blog/visual-programming-how-to-create-a-digital-product-without-touching-the-keyboard/)
+- 💫 NoCode MVP: [The Concept](https://apifornia.com/blog/nocode-mvp-concept/), [The Services](https://apifornia.com/blog/nocode-mvp-the-services/), [After the Launch](https://apifornia.com/blog/nocode-mvp-after-launch/)
+- 🎬 [A Brief History of NoCode Tools](https://apifornia.com/blog/brief-history-of-nocode/)
+- 🔢 [NoCode Spreadsheets](https://apifornia.com/blog/nocode-spreadsheets/)
 
 ### Другие
 - 👨‍🎓️ [Stepik-курс «Статьи для IT: как объяснять и распространять значимые идеи»](https://stepik.org/course/101672/)
