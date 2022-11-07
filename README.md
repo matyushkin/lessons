@@ -1,13 +1,16 @@
 # lessons
-Репозиторий содержит блокноты Jupyter, представляющие собой интерактивные версии публикаций для образовательных ресурсов. Если нашли ошибку, добавляйте `issue` здесь, пишите в телеграм-чат ✈️ ([@matyushkin_chat](https://t.me/matyushkin_chat)) или на почту 📬 [leva.matyushkin@gmail.com](mailto:leva.matyushkin@gmail.com), опечатки обычно можно отправить по [Ctrl + Enter]. Выход публикаций аннонсируется в телеграм-канале [@leomatyushkin](https://t.me/leomatyushkin) и [паблике vk](https://vk.com/python_ds). Если вам нравятся мои переводы и тексты, меня можно [поддержать](https://matyushkin.github.io/donate/) 🙏. 
+
+Репозиторий содержит блокноты Jupyter, представляющие собой интерактивные версии публикаций для образовательных ресурсов. Если нашли ошибку, добавляйте `issue` здесь, пишите в телеграм-чат ✈️ ([@matyushkin_chat](https://t.me/matyushkin_chat)) или на почту 📬 [leva.matyushkin@gmail.com](mailto:leva.matyushkin@gmail.com), опечатки обычно можно отправить по [Ctrl + Enter]. Выход публикаций аннонсируется в телеграм-канале [@leomatyushkin](https://t.me/leomatyushkin) и [паблике vk](https://vk.com/python_ds). Если вам нравятся мои переводы и тексты, меня можно [поддержать](https://matyushkin.github.io/donate/) 🙏.
 
 ## Перечень публикаций
+
 Большинство публикаций подготовлены для [Библиотеки программиста](https://proglib.io/), более ранние — для [Хабра](https://habr.com/ru/users/LeoMat/). В репозитории представлены лишь публикации на темы, связанные с различными аспектами программирования. Научные статьи выложены в ([профиле на ResearchGate](https://www.researchgate.net/profile/Lev_Matyushkin)).
 
 Статьи в рубриках расположены преимущественно в обратном хронологическом порядке.
 
 ### Python
-- 🕹️ [Как написать игру на Python: 5 игровых движков](https://www.notion.so/leomatyushkin/Python-5-b7da3b9f3ee94bac86bf987a4ea09c90) ([ист.](https://realpython.com/top-python-game-engines/))
+
+- 🕹️ [Как написать игру на Python: 5 игровых движков](https://proglib.io/p/kak-napisat-igru-na-python-5-igrovyh-dvizhkov-2022-11-07) ([зеркало на Notion](https://www.notion.so/leomatyushkin/Python-5-b7da3b9f3ee94bac86bf987a4ea09c90), [ист.](https://realpython.com/top-python-game-engines/))
 - 🔩 [Полный фуллстек: пишем сайт на Django, Vue и GraphQL](https://proglib.io/p/polnyy-fullstek-pishem-sayt-na-django-vue-i-graphql-2021-07-22) ([ист.](https://proglib.io/p/polnyy-fullstek-pishem-sayt-na-django-vue-i-graphql-2021-07-22))
 - [Помнить всё. Как работает память в Python](https://proglib.io/p/pomnit-vse-kak-rabotaet-pamyat-v-python-2021-03-14)
 - [Python и API: комбо для автоматизации работы с публичными данными](https://proglib.io/p/python-i-api-prevoshodnoe-kombo-dlya-avtomatizacii-raboty-s-publichnymi-dannymi-2021-02-26) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/APIs/python_apis.ipynb)) ([ист.](https://realpython.com/python-api/))
@@ -16,8 +19,7 @@
 - 🗄️ [Python и MySQL: практическое введение](https://proglib.io/p/python-i-mysql-prakticheskoe-vvedenie-2021-01-06) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/databases/mysql.ipynb)) ([ист.](https://realpython.com/python-mysql/))
 - ⛱️ [Как правильно ничего не делать в Python: инструкция pass](https://proglib.io/p/kak-pravilno-nichego-ne-delat-v-python-instrukciya-pass-2020-12-19) ([ист.](https://realpython.com/python-pass/))
 - 🧩 [Кэширование в Python: алгоритм LRU](https://proglib.io/p/keshirovanie-v-python-algoritm-lru-2020-11-17) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/caching/lru-cache.ipynb)) ([ист.](https://realpython.com/lru-cache-python/))
-- 🗄️ [Управление данными с помощью Python, SQLite и SQLAlchemy
-](https://proglib.io/p/upravlenie-dannymi-s-pomoshchyu-python-sqlite-i-sqlalchemy-2020-10-21) ([ист.](https://realpython.com/python-sqlite-sqlalchemy/))
+- 🗄️ [Управление данными с помощью Python, SQLite и SQLAlchemy](https://proglib.io/p/upravlenie-dannymi-s-pomoshchyu-python-sqlite-i-sqlalchemy-2020-10-21) ([ист.](https://realpython.com/python-sqlite-sqlalchemy/))
 - 🤹 [Введение в объектно-ориентированное программирование (ООП) на Python](https://proglib.io/p/vvedenie-v-obektno-orientirovannoe-programmirovanie-oop-na-python-2020-07-23) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/oop/oop.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/oop/oop.ipynb)) ([ист.](https://realpython.com/python3-object-oriented-programming/))
 - 🙋 [Тест на знание языка Python (15 вопросов)](https://proglib.io/tests/test-na-znanie-yazyka-python)
 - 🌟 [Робот в лабиринте: обрабатываем в Python очереди с приоритетом](https://proglib.io/p/robot-v-labirinte-obrabatyvaem-ocheredi-s-prioritetom-v-python-2020-07-07) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/heaps/heaps.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/heaps/heaps.ipynb)) ([ист.](https://realpython.com/python-heapq-module/))
@@ -128,6 +130,7 @@
 
 ### Nocode (for English speakers)
 
+- 🔢 [NoCode Spreadsheets](https://apifornia.com/blog/nocode-spreadsheets/)
 - 🔢 [Meet Airtable – cloud database in a spreadsheet format](https://apifornia.com/blog/meet-airtable-cloud-database-in-a-spreadsheet-format/) 
 - 🖇️ [How to choose the NoCode workflow platform](https://apifornia.com/blog/how-to-choose-the-nocode-workflow-platform/)
 - 📝 [To code or not to code](https://apifornia.com/blog/to-code-or-not-to-code/)
@@ -137,7 +140,7 @@
 - 👁️ [Visual programming. How to create a digital product without touching the keyboard](https://apifornia.com/blog/visual-programming-how-to-create-a-digital-product-without-touching-the-keyboard/)
 - 💫 NoCode MVP: [The Concept](https://apifornia.com/blog/nocode-mvp-concept/), [The Services](https://apifornia.com/blog/nocode-mvp-the-services/), [After the Launch](https://apifornia.com/blog/nocode-mvp-after-launch/)
 - 🎬 [A Brief History of NoCode Tools](https://apifornia.com/blog/brief-history-of-nocode/)
-- 🔢 [NoCode Spreadsheets](https://apifornia.com/blog/nocode-spreadsheets/)
+
 
 ### Другие
 - 👨‍🎓️ [Stepik-курс «Статьи для IT: как объяснять и распространять значимые идеи»](https://stepik.org/course/101672/)
