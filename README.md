@@ -54,6 +54,7 @@
 - 👨‍🎓️ [Программирование и научные вычисления на языке Python (курс на Викиверситете)](https://ru.wikiversity.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_Python) – будьте осторожны, курс такой «древний», что в нем ещё использовался Python 2.
 
 ### Нейронные сети и компьютерное зрение
+
 - 🤼 [Генеративно-состязательная нейросеть: ваша первая GAN-модель на PyTorch](https://proglib.io/p/generativno-sostyazatelnaya-neyroset-vasha-pervaya-gan-model-na-pytorch-2020-08-11) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/neural_networks/GAN_intro.ipynb)) ([ист.](https://realpython.com/generative-adversarial-networks/))
 - 🙋 [Тест. Правда или ложь: что умеют нейросети?](https://proglib.io/tests/pravda-ili-lozh-chto-umeyut-neyroseti)
 - 🕹️👁️ [Нейросети в помощь геймдев-художнику: машинное обучение для создания игрового пиксель-арта](https://proglib.io/p/neyroseti-v-pomoshch-geymdev-hudozhniku-mashinnoe-obuchenie-dlya-sozdaniya-igrovogo-piksel-arta-2020-04-13) ([ист.](https://towardsdatascience.com/painting-pixel-art-with-machine-learning-5d21b260486))
@@ -61,7 +62,7 @@
 - 🖍️👁️ [Учим искусственный интеллект раскрашивать контурные изображения персонажей аниме](https://proglib.io/p/sketch2color-uchim-iskusstvennyy-intellekt-raskrashivat-konturnye-izobrazheniya-personazhey-anime-2019-12-30) ([ист.](https://towardsdatascience.com/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb))
 - 💬 [Голосовой DeepFake, или Как работает технология клонирования голоса](https://proglib.io/p/golosovoy-deepfake-ili-kak-rabotaet-tehnologiya-klonirovaniya-golosa-2019-12-11)
 - 📝 [DeepFake-туториал: создаем собственный дипфейк в DeepFaceLab](https://proglib.io/p/deepfake-tutorial-sozdaem-sobstvennyy-dipfeyk-v-deepfacelab-2019-11-16) ([ист.](https://github.com/iperov/DeepFaceLab/))
-- 👁️ [Автоматическое распознавание автомобильных номеров на Raspberry Pi](https://proglib.io/p/avtomaticheskoe-raspoznavanie-avtomobilnyh-nomerov-na-raspberry-pi-2019-11-01) 
+- 👁️ [Автоматическое распознавание автомобильных номеров на Raspberry Pi](https://proglib.io/p/avtomaticheskoe-raspoznavanie-avtomobilnyh-nomerov-na-raspberry-pi-2019-11-01)
 - 👨‍🎓️👁️ [Учебный план по основам компьютерного зрения](https://proglib.io/p/cv-plan)
 - 📝 [Чек-лист для отладки нейронной сети: 5 шагов на пути к успеху](https://proglib.io/p/networks-debugging) ([ист.](https://towardsdatascience.com/checklist-for-debugging-neural-networks-d8b2a9434f21))
 - 🗞️ [TensorFlow умер. Да здравствует TensorFlow 2.0!](https://proglib.io/p/tensorflow2)
@@ -74,9 +75,10 @@
 - 👁️ [Наглядное введение в нейросети на примере распознавания цифр](https://proglib.io/p/neural-network-course)
 
 ### ML и общие вопросы Data Science
+
 - 🔗🔥 [Структурированная подборка-таблица бесплатных ресурсов по тематикам Data Science и Machine Learning](https://github.com/matyushkin/ds)
 - 🌟 [Git для Data Science: контроль версий моделей и датасетов с помощью DVC](https://proglib.io/p/git-dlya-data-science-kontrol-versiy-modeley-i-datasetov-s-pomoshchyu-dvc-2020-12-02) ([ист.](https://realpython.com/python-data-version-control/))
-- 🌟 [Линейное программирование. Практика решения задач оптимизации на Python](https://proglib.io/p/lineynoe-programmirovanie-praktika-resheniya-zadach-optimizacii-na-python-2020-11-26) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/algorithms/linear_programiing_optimization.ipynb),  [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/algorithms/linear_programiing_optimization.ipynb)) ([ист.](https://realpython.com/linear-programming-python/))
+- 🌟 [Линейное программирование. Практика решения задач оптимизации на Python](https://proglib.io/p/lineynoe-programmirovanie-praktika-resheniya-zadach-optimizacii-na-python-2020-11-26) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/algorithms/linear_programiing_optimization.ipynb), [Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/algorithms/linear_programiing_optimization.ipynb)) ([ист.](https://realpython.com/linear-programming-python/))
 - [Автодополнение длиной в тысячу слов. Что известно о нейросетевой модели GPT-3](https://proglib.io/p/avtodopolnenie-dlinoy-v-tysyachu-slov-chto-izvestno-o-neyrosetevoy-modeli-gpt-3-2020-11-21)
 - [«Люблю» и «ненавижу»: анализ эмоциональной окраски текста с помощью Python](https://proglib.io/p/lyublyu-i-nenavizhu-analiz-emocionalnoy-okraski-teksta-s-pomoshchyu-python-2020-11-13) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/nlp/sentiment_analysis.ipynb)) ([ист.](https://realpython.com/sentiment-analysis-python/))
 - 🏢 [Как компании превращают данные в деньги: обзор российских практик Data Science](https://proglib.io/p/kak-kompanii-prevrashchayut-dannye-v-dengi-obzor-rossiyskih-praktik-data-science-2020-07-18)
@@ -107,6 +109,7 @@
 - 🤖 [Создаем бота в Facebook на Python менее чем за 60 минут](https://proglib.io/p/facebook-bot-with-python) ([ист.](https://www.twilio.com/blog/2017/12/facebook-messenger-bot-python.html))
 
 ### Алгоритмические головоломки
+
 Это серия тщательно продуманных головоломок на логические рассуждения и алгоритмы программирования. Описания задач, иллюстрации и решения сведены в [блокноте Jupyter](https://github.com/matyushkin/lessons/blob/master/puzzles/puzzles.ipynb) ([Colab](https://colab.research.google.com/github/matyushkin/lessons/blob/master/puzzles/puzzles.ipynb)).
 
 1. 👫 [Двойные фамилии](https://proglib.io/p/zadacha-o-dvoynyh-familiyah-2020-01-11)
@@ -127,11 +130,14 @@
 16. 🤷 [Собеседование и семь гномов: задачи с интервью в IT-компаниях](https://proglib.io/p/sobesedovanie-i-sem-gnomov-zadachi-s-intervyu-v-it-kompaniyah-2020-02-22)
 17. 🐍 [Нарисовать змейку, выстроить зиккурат](https://proglib.io/p/para-algoritmicheskih-zadach-dlya-uspeshnogo-programmista-narisovat-zmeyku-vystroit-zikkurat-2020-04-19)
 
-
 ### Nocode (for English speakers)
 
+- 🏗️ [Flow-Based Programming: the Mastermind behind NoCode](https://blog.apifornia.com/the-concept-of-flow-based-programming-and-its-implementation/)
+- 🌐 [NoCode and LowCode Frontend constructors](https://blog.apifornia.com/nocode-and-lowcode-constructors-for-frontend/)
+- 📲 [5 NoCode mobile app builders](https://blog.apifornia.com/5-nocode-mobile-app-builders/)
+- 📭 [Open Source NoCode Tools](https://blog.apifornia.com/open-source/)
 - 🔢 [NoCode Spreadsheets](https://blog.apifornia.com/nocode-spreadsheets/)
-- 🔢 [Meet Airtable – cloud database in a spreadsheet format](https://blog.apifornia.com/meet-airtable-cloud-database-in-a-spreadsheet-format/) 
+- 🔢 [Meet Airtable – cloud database in a spreadsheet format](https://blog.apifornia.com/meet-airtable-cloud-database-in-a-spreadsheet-format/)
 - 🖇️ [How to choose the NoCode workflow platform](https://blog.apifornia.com/how-to-choose-the-nocode-workflow-platform/)
 - 📝 [To code or not to code](https://blog.apifornia.com/to-code-or-not-to-code/)
 - ⛰️ [Mapping the NoCode Landscape](https://blog.apifornia.com/mapping-the-nocode-landscape-2/)
@@ -141,8 +147,8 @@
 - 💫 NoCode MVP: [The Concept](https://blog.apifornia.com/nocode-mvp-concept/), [The Services](https://blog.apifornia.com/nocode-mvp-the-services/), [After the Launch](https://blog.apifornia.com/nocode-mvp-after-launch/)
 - 🎬 [A Brief History of NoCode Tools](https://blog.apifornia.com/brief-history-of-nocode/)
 
-
 ### Другие
+
 - 👨‍🎓️ [Stepik-курс «Статьи для IT: как объяснять и распространять значимые идеи»](https://stepik.org/course/101672/)
 - 👨‍🎓️ [Stepik-курс «Наноматериалы»](https://stepik.org/course/52514)
 - ▶️📱[70 YouTube-каналов и плейлистов о мобильной разработке](https://proglib.io/p/70-youtube-kanalov-i-pleylistov-o-mobilnoy-razrabotke-2020-07-02)
@@ -159,7 +165,7 @@
 - 🏗️🌟 [Как написать код, который полюбят все](https://proglib.io/p/kak-napisat-kod-kotoryy-polyubyat-vse-2020-03-17)
 - 🏊 [Как не «сгореть на работе», если ты программист](https://proglib.io/p/kak-ne-sgoret-na-rabote-esli-ty-programmist-2020-03-12)
 - 🕹️👾 [PICO-8 и TIC-80. Экскурсия в мир виртуальных консолей для создания ретро-игр](https://proglib.io/p/pico-8-i-tic-80-ekskursiya-v-mir-virtualnyh-konsoley-dlya-sozdaniya-retro-igr-2020-02-29)
-- 💎 [Как шифровать информацию с помощью роста кристаллов](https://proglib.io/p/kak-shifrovat-informaciyu-s-pomoshchyu-rosta-kristallov-2020-02-24) ([ист.](https://www.cell.com/matter/fulltext/S2590-2385(20)30024-2))
+- 💎 [Как шифровать информацию с помощью роста кристаллов](https://proglib.io/p/kak-shifrovat-informaciyu-s-pomoshchyu-rosta-kristallov-2020-02-24) ([ист.](<https://www.cell.com/matter/fulltext/S2590-2385(20)30024-2>))
 - ▶️ [100+ лекций экспертов Постнауки об анализе данных, ИИ, роботах, математике и сетях](https://proglib.io/p/100-videolekciy-ekspertov-postnauki-2020-02-16)
 - 🐈 [Перезаряжаем терминал: GitHub CLI в действии](https://proglib.io/p/perezaryazhaem-terminal-github-cli-v-deystvii-2020-02-14)
 - ▶️ [Автостопом по TED: 42 ярких выступления на темы вблизи IT](https://proglib.io/p/avtostopom-po-ted-42-yarkih-vystupleniya-na-temy-vblizi-it-2020-02-11)
@@ -173,7 +179,7 @@
 - 🌟 [6 идей проектов выходного дня](https://proglib.io/p/6-idey-proektov-vyhodnogo-dnya-2020-01-11) ([ист.](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html))
 - 🦊😼 [GitLab или GitHub? Как выбрать ресурс под определённый тип репозитория](https://proglib.io/p/gitlab-ili-github-kak-vybrat-resurs-pod-opredelennyy-tip-repozitoriya-2020-01-06)
 - 📈 [20 тенденций в разработке программного обеспечения (2020)](https://proglib.io/p/20-tendenciy-v-razrabotke-programmnogo-obespecheniya-na-2020-god-2019-12-20) ([ист.](https://towardsdatascience.com/20-predictions-about-software-development-trends-in-2020-afb8b110d9a0))
-- 📝 [Безопасность прежде всего: как защитить Linux на сервере VPS](https://proglib.io/p/bezopasnost-prezhde-vsego-kak-zashchitit-linux-na-servere-vps-2019-12-04) 
+- 📝 [Безопасность прежде всего: как защитить Linux на сервере VPS](https://proglib.io/p/bezopasnost-prezhde-vsego-kak-zashchitit-linux-na-servere-vps-2019-12-04)
 - [Вебхуки: как получать данные без промедления и опросов API](https://proglib.io/p/vebhuki-kak-poluchat-dannye-bez-promedleniya-i-oprosov-api-2019-11-09)
 - [Пишем простой граббер для Telegram чатов на Python](https://proglib.io/p/pishem-prostoy-grabber-dlya-telegram-chatov-na-python-2019-11-06)
 - 🏗️ [Читаемый код: 10 практик успешного написания](https://proglib.io/p/clean-code)
@@ -192,19 +198,20 @@
 - [Импульсные нейронные сети: мозг в компьютере](https://proglib.io/p/spiking-neural-networks) ([ист.](https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b))
 - 🧒 [Как помочь ребенку выучить таблицу умножения](https://habr.com/ru/post/126043/)
 
+---
 
----- 
 ## Принятые обозначения
-* ист. – ссылка на основной источник публикации
-* 🌟 мне нравится, что получилось
-* 👨‍🎓️ подборка курсов или учебный план 
-* 🙋 тест
-* 🔗 сборник ссылок
-* ▶️ подборка видео по определенной теме
-* 📝 инструкция, как что-то сделать
-* 🕹️ о разработке игр
-* 🗞️ статья новостного плана (могла потерять актуальность)
-* 🖼️ о рисовании или дизайне
-* 🧒 о математике и программировании для детей
-* 👁️ о различных аспектах компьютерного зрения
-* 📊 об инструментах визуализации данных
+
+- ист. – ссылка на основной источник публикации
+- 🌟 мне нравится, что получилось
+- 👨‍🎓️ подборка курсов или учебный план
+- 🙋 тест
+- 🔗 сборник ссылок
+- ▶️ подборка видео по определенной теме
+- 📝 инструкция, как что-то сделать
+- 🕹️ о разработке игр
+- 🗞️ статья новостного плана (могла потерять актуальность)
+- 🖼️ о рисовании или дизайне
+- 🧒 о математике и программировании для детей
+- 👁️ о различных аспектах компьютерного зрения
+- 📊 об инструментах визуализации данных
