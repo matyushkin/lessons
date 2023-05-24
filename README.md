@@ -132,6 +132,8 @@
 
 ### Nocode (for English speakers)
 
+- [API Hubs and Marketplaces](https://blog.apifornia.com/api-hubs-and-marketplaces/)
+- [10 Years of Webflow: A Fresh Look at the Leading Web Design Platform](https://blog.apifornia.com/10-years-of-webflow-a-fresh-look-at-the-leading-web-design-platform/)
 - 🏗️ [Flow-Based Programming: the Mastermind behind NoCode](https://blog.apifornia.com/the-concept-of-flow-based-programming-and-its-implementation/)
 - 🌐 [NoCode and LowCode Frontend constructors](https://blog.apifornia.com/nocode-and-lowcode-constructors-for-frontend/)
 - 📲 [5 NoCode mobile app builders](https://blog.apifornia.com/5-nocode-mobile-app-builders/)
