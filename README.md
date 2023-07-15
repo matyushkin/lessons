@@ -4,7 +4,9 @@
 
 ## Перечень публикаций
 
-Большинство публикаций подготовлены для [Библиотеки программиста](https://proglib.io/), более ранние — для [Хабра](https://habr.com/ru/users/LeoMat/). В репозитории представлены лишь публикации на темы, связанные с различными аспектами программирования. Научные статьи выложены в ([профиле на ResearchGate](https://www.researchgate.net/profile/Lev_Matyushkin)).
+Большинство публикаций подготовлены для [Библиотеки программиста](https://proglib.io/), более ранние — для [Хабра](https://habr.com/ru/users/LeoMat/), в последнее время  пишу на английском в [блоге Apifornia](https://blog.apifornia.com).
+
+В репозитории представлены лишь публикации на темы, связанные с различными аспектами программирования. Научные статьи выложены в ([ResearchGate](https://www.researchgate.net/profile/Lev_Matyushkin)).
 
 Статьи в рубриках расположены преимущественно в обратном хронологическом порядке.
 
@@ -132,6 +134,7 @@
 
 ### Nocode (for English speakers)
 
+- [Not just ChatGPT. AI-driven tools for creating programs](https://blog.apifornia.com/ai-driven-coding-tools/)
 - [API Hubs and Marketplaces](https://blog.apifornia.com/api-hubs-and-marketplaces/)
 - [10 Years of Webflow: A Fresh Look at the Leading Web Design Platform](https://blog.apifornia.com/10-years-of-webflow-a-fresh-look-at-the-leading-web-design-platform/)
 - 🏗️ [Flow-Based Programming: the Mastermind behind NoCode](https://blog.apifornia.com/the-concept-of-flow-based-programming-and-its-implementation/)
