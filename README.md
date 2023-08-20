@@ -134,7 +134,8 @@
 
 ### Nocode (for English speakers)
 
-- [Not just ChatGPT. AI-driven tools for creating programs](https://blog.apifornia.com/ai-driven-coding-tools/)
+- 🧑‍💻 [AI-Driven Helper Dev Tools Beyond the IDE](https://blog.apifornia.com/ai-driven-helper-dev-tools-beyond-the-ide/)
+- 🧑‍💻 [Not just ChatGPT. AI-driven tools for creating programs](https://blog.apifornia.com/ai-driven-coding-tools/)
 - [API Hubs and Marketplaces](https://blog.apifornia.com/api-hubs-and-marketplaces/)
 - [10 Years of Webflow: A Fresh Look at the Leading Web Design Platform](https://blog.apifornia.com/10-years-of-webflow-a-fresh-look-at-the-leading-web-design-platform/)
 - 🏗️ [Flow-Based Programming: the Mastermind behind NoCode](https://blog.apifornia.com/the-concept-of-flow-based-programming-and-its-implementation/)
