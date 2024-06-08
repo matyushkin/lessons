@@ -132,26 +132,46 @@
 16. 🤷 [Собеседование и семь гномов: задачи с интервью в IT-компаниях](https://proglib.io/p/sobesedovanie-i-sem-gnomov-zadachi-s-intervyu-v-it-kompaniyah-2020-02-22)
 17. 🐍 [Нарисовать змейку, выстроить зиккурат](https://proglib.io/p/para-algoritmicheskih-zadach-dlya-uspeshnogo-programmista-narisovat-zmeyku-vystroit-zikkurat-2020-04-19)
 
-### Nocode (for English speakers)
+### NoCode (for English speakers)
 
-- 🧑‍💻 [AI-Driven Helper Dev Tools Beyond the IDE](https://blog.apifornia.com/ai-driven-helper-dev-tools-beyond-the-ide/)
-- 🧑‍💻 [Not just ChatGPT. AI-driven tools for creating programs](https://blog.apifornia.com/ai-driven-coding-tools/)
-- [API Hubs and Marketplaces](https://blog.apifornia.com/api-hubs-and-marketplaces/)
-- [10 Years of Webflow: A Fresh Look at the Leading Web Design Platform](https://blog.apifornia.com/10-years-of-webflow-a-fresh-look-at-the-leading-web-design-platform/)
+#### NoCode Paradigm
+- 📝 [To code or not to code](https://blog.apifornia.com/to-code-or-not-to-code/)
 - 🏗️ [Flow-Based Programming: the Mastermind behind NoCode](https://blog.apifornia.com/the-concept-of-flow-based-programming-and-its-implementation/)
-- 🌐 [NoCode and LowCode Frontend constructors](https://blog.apifornia.com/nocode-and-lowcode-constructors-for-frontend/)
-- 📲 [5 NoCode mobile app builders](https://blog.apifornia.com/5-nocode-mobile-app-builders/)
+- ⛰️ [Mapping the NoCode Landscape](https://blog.apifornia.com/mapping-the-nocode-landscape-2/)
+- 👁️ [Visual programming. How to create a digital product without touching the keyboard](https://blog.apifornia.com/visual-programming-how-to-create-a-digital-product-without-touching-the-keyboard/)
+- 👥 [NoCode Community](https://blog.apifornia.com/nocode-community/)
+- 🎬 [A Brief History of NoCode Tools](https://blog.apifornia.com/brief-history-of-nocode/)
+- 🎬 History of Human-Machine Interfaces:
+  + [Part 1. The Pre-Computer Era](https://blog.apifornia.com/history-of-human-machine-interfaces-in-the-pre-computer-era/) 
+  + [Part 2. The 60s-70s: Beyond Computing](https://blog.apifornia.com/hci-60-70/)
+- [NoCode: Critics](https://blog.apifornia.com/nocode-critics/)
+- 💫 NoCode MVP:
+  - [The Concept](https://blog.apifornia.com/nocode-mvp-concept/),
+  - [The Services](https://blog.apifornia.com/nocode-mvp-the-services/)
+  - [After the Launch](https://blog.apifornia.com/nocode-mvp-after-launch/)
+
+#### NoCode Tool Groups
+- 🖇️ [How to choose the NoCode workflow platform](https://blog.apifornia.com/how-to-choose-the-nocode-workflow-platform/)
+- 🏗️ [How to choose a full-stack website builder](https://blog.apifornia.com/how-to-choose-a-full-stack-website-builder/)
 - 📭 [Open Source NoCode Tools](https://blog.apifornia.com/open-source/)
 - 🔢 [NoCode Spreadsheets](https://blog.apifornia.com/nocode-spreadsheets/)
+- 📲 [NoCode mobile app builders](https://blog.apifornia.com/5-nocode-mobile-app-builders/)
+- 🌐 [NoCode and LowCode Frontend constructors](https://blog.apifornia.com/nocode-and-lowcode-constructors-for-frontend/)
+- 🧑‍💻🤖 [Professional LLM Tools](https://blog.apifornia.com/tools-for-professional-work-with-llms/)
+- 🧑‍💻🤖 [AI-Driven Helper Dev Tools Beyond the IDE](https://blog.apifornia.com/ai-driven-helper-dev-tools-beyond-the-ide/)
+- 🧑‍💻🤖 [Not just ChatGPT. AI-driven tools for creating programs](https://blog.apifornia.com/ai-driven-coding-tools/)
+- 🔌 [API Hubs and Marketplaces](https://blog.apifornia.com/api-hubs-and-marketplaces/)
+- 👾 [The Evolution of Game Development: Embracing NoCode Technologies](https://blog.apifornia.com/gamedev-nocode/)
+- 🏠 [NoCode and IoT: platforms and projects](https://blog.apifornia.com/nocode-iot/)
+
+#### NoCode Tools
+- 👨‍💻 [Node-RED for App Development: Looking at the Pros and Cons](https://blog.apifornia.com/node-red/)
+- 👨‍💻 [Retool: The Efficient Path to Custom Business App Development](https://blog.apifornia.com/retool/)
+- 👨‍💻 [Bubble: NoCode Web App Builder](https://blog.apifornia.com/bubble/)
+- 👨‍💻 [10 Years of Webflow: A Fresh Look at the Leading Web Design Platform](https://blog.apifornia.com/10-years-of-webflow-a-fresh-look-at-the-leading-web-design-platform/)
 - 🔢 [Meet Airtable – cloud database in a spreadsheet format](https://blog.apifornia.com/meet-airtable-cloud-database-in-a-spreadsheet-format/)
-- 🖇️ [How to choose the NoCode workflow platform](https://blog.apifornia.com/how-to-choose-the-nocode-workflow-platform/)
-- 📝 [To code or not to code](https://blog.apifornia.com/to-code-or-not-to-code/)
-- ⛰️ [Mapping the NoCode Landscape](https://blog.apifornia.com/mapping-the-nocode-landscape-2/)
 - 🔢 [Airtable as a CRM: Is it Good Enough?](https://blog.apifornia.com/airtable-as-a-crm-is-it-good-enough/)
-- 🏗️ [How to choose a full-stack website builder](https://blog.apifornia.com/how-to-choose-a-full-stack-website-builder/)
-- 👁️ [Visual programming. How to create a digital product without touching the keyboard](https://blog.apifornia.com/visual-programming-how-to-create-a-digital-product-without-touching-the-keyboard/)
-- 💫 NoCode MVP: [The Concept](https://blog.apifornia.com/nocode-mvp-concept/), [The Services](https://blog.apifornia.com/nocode-mvp-the-services/), [After the Launch](https://blog.apifornia.com/nocode-mvp-after-launch/)
-- 🎬 [A Brief History of NoCode Tools](https://blog.apifornia.com/brief-history-of-nocode/)
+
 
 ### Другие
 
