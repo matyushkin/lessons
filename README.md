@@ -12,7 +12,7 @@
 
 ### Python
 
-- 🕹️ [Как написать игру на Python: 5 игровых движков](https://proglib.io/p/kak-napisat-igru-na-python-5-igrovyh-dvizhkov-2022-11-07) ([зеркало на Notion](https://www.notion.so/leomatyushkin/Python-5-b7da3b9f3ee94bac86bf987a4ea09c90), [ист.](https://realpython.com/top-python-game-engines/))
+- 👾 [Как написать игру на Python: 5 игровых движков](https://proglib.io/p/kak-napisat-igru-na-python-5-igrovyh-dvizhkov-2022-11-07) ([зеркало на Notion](https://www.notion.so/leomatyushkin/Python-5-b7da3b9f3ee94bac86bf987a4ea09c90), [ист.](https://realpython.com/top-python-game-engines/))
 - 🔩 [Полный фуллстек: пишем сайт на Django, Vue и GraphQL](https://proglib.io/p/polnyy-fullstek-pishem-sayt-na-django-vue-i-graphql-2021-07-22) ([ист.](https://proglib.io/p/polnyy-fullstek-pishem-sayt-na-django-vue-i-graphql-2021-07-22))
 - [Помнить всё. Как работает память в Python](https://proglib.io/p/pomnit-vse-kak-rabotaet-pamyat-v-python-2021-03-14)
 - [Python и API: комбо для автоматизации работы с публичными данными](https://proglib.io/p/python-i-api-prevoshodnoe-kombo-dlya-avtomatizacii-raboty-s-publichnymi-dannymi-2021-02-26) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/APIs/python_apis.ipynb)) ([ист.](https://realpython.com/python-api/))
@@ -59,7 +59,7 @@
 
 - 🤼 [Генеративно-состязательная нейросеть: ваша первая GAN-модель на PyTorch](https://proglib.io/p/generativno-sostyazatelnaya-neyroset-vasha-pervaya-gan-model-na-pytorch-2020-08-11) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/neural_networks/GAN_intro.ipynb)) ([ист.](https://realpython.com/generative-adversarial-networks/))
 - 🙋 [Тест. Правда или ложь: что умеют нейросети?](https://proglib.io/tests/pravda-ili-lozh-chto-umeyut-neyroseti)
-- 🕹️👁️ [Нейросети в помощь геймдев-художнику: машинное обучение для создания игрового пиксель-арта](https://proglib.io/p/neyroseti-v-pomoshch-geymdev-hudozhniku-mashinnoe-obuchenie-dlya-sozdaniya-igrovogo-piksel-arta-2020-04-13) ([ист.](https://towardsdatascience.com/painting-pixel-art-with-machine-learning-5d21b260486))
+- 👾👁️ [Нейросети в помощь геймдев-художнику: машинное обучение для создания игрового пиксель-арта](https://proglib.io/p/neyroseti-v-pomoshch-geymdev-hudozhniku-mashinnoe-obuchenie-dlya-sozdaniya-igrovogo-piksel-arta-2020-04-13) ([ист.](https://towardsdatascience.com/painting-pixel-art-with-machine-learning-5d21b260486))
 - ▶️👁️ [Просто добавь нейросеть: 7 исторических фильмов в 4K и 60 FPS](https://proglib.io/p/prosto-dobav-neyroset-7-istoricheskih-filmov-v-4k-i-60-fps-2020-03-15)
 - 🖍️👁️ [Учим искусственный интеллект раскрашивать контурные изображения персонажей аниме](https://proglib.io/p/sketch2color-uchim-iskusstvennyy-intellekt-raskrashivat-konturnye-izobrazheniya-personazhey-anime-2019-12-30) ([ист.](https://towardsdatascience.com/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb))
 - 💬 [Голосовой DeepFake, или Как работает технология клонирования голоса](https://proglib.io/p/golosovoy-deepfake-ili-kak-rabotaet-tehnologiya-klonirovaniya-golosa-2019-12-11)
@@ -151,8 +151,8 @@
   - [After the Launch](https://blog.apifornia.com/nocode-mvp-after-launch/)
 
 #### NoCode Tool Groups
-- 🖇️ [How to choose the NoCode workflow platform](https://blog.apifornia.com/how-to-choose-the-nocode-workflow-platform/)
-- 🏗️ [How to choose a full-stack website builder](https://blog.apifornia.com/how-to-choose-a-full-stack-website-builder/)
+- 📝 [How to choose the NoCode workflow platform](https://blog.apifornia.com/how-to-choose-the-nocode-workflow-platform/)
+- 📝 [How to choose a full-stack website builder](https://blog.apifornia.com/how-to-choose-a-full-stack-website-builder/)
 - 📭 [Open Source NoCode Tools](https://blog.apifornia.com/open-source/)
 - 🔢 [NoCode Spreadsheets](https://blog.apifornia.com/nocode-spreadsheets/)
 - 📲 [NoCode mobile app builders](https://blog.apifornia.com/5-nocode-mobile-app-builders/)
@@ -190,7 +190,7 @@
 - 📕 [ТОП-10 книг по C#: от новичка до профессионала](https://proglib.io/p/top-10-knig-po-c-ot-novichka-do-professionala-2020-03-18)
 - 🏗️🌟 [Как написать код, который полюбят все](https://proglib.io/p/kak-napisat-kod-kotoryy-polyubyat-vse-2020-03-17)
 - 🏊 [Как не «сгореть на работе», если ты программист](https://proglib.io/p/kak-ne-sgoret-na-rabote-esli-ty-programmist-2020-03-12)
-- 🕹️👾 [PICO-8 и TIC-80. Экскурсия в мир виртуальных консолей для создания ретро-игр](https://proglib.io/p/pico-8-i-tic-80-ekskursiya-v-mir-virtualnyh-konsoley-dlya-sozdaniya-retro-igr-2020-02-29)
+- 👾👾 [PICO-8 и TIC-80. Экскурсия в мир виртуальных консолей для создания ретро-игр](https://proglib.io/p/pico-8-i-tic-80-ekskursiya-v-mir-virtualnyh-konsoley-dlya-sozdaniya-retro-igr-2020-02-29)
 - 💎 [Как шифровать информацию с помощью роста кристаллов](https://proglib.io/p/kak-shifrovat-informaciyu-s-pomoshchyu-rosta-kristallov-2020-02-24) ([ист.](<https://www.cell.com/matter/fulltext/S2590-2385(20)30024-2>))
 - ▶️ [100+ лекций экспертов Постнауки об анализе данных, ИИ, роботах, математике и сетях](https://proglib.io/p/100-videolekciy-ekspertov-postnauki-2020-02-16)
 - 🐈 [Перезаряжаем терминал: GitHub CLI в действии](https://proglib.io/p/perezaryazhaem-terminal-github-cli-v-deystvii-2020-02-14)
@@ -235,7 +235,7 @@
 - 🔗 сборник ссылок
 - ▶️ подборка видео по определенной теме
 - 📝 инструкция, как что-то сделать
-- 🕹️ о разработке игр
+- 👾 о разработке игр
 - 🗞️ статья новостного плана (могла потерять актуальность)
 - 🖼️ о рисовании или дизайне
 - 🧒 о математике и программировании для детей
