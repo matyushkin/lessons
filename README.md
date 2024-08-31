@@ -173,11 +173,10 @@
 - 🔢 [Airtable as a CRM: Is it Good Enough?](https://blog.apifornia.com/airtable-as-a-crm-is-it-good-enough/)
 
 #### History of Human-Machine Interfaces
-- [The Pre-Computer Era](https://blog.apifornia.com/history-of-human-machine-interfaces-in-the-pre-computer-era/)
-- [1960-70s. Beyond Computing](https://blog.apifornia.com/hci-60-70/)
-- [1980-90s. Personal Computers](https://blog.apifornia.com/history-of-human-machine-interfaces-part-3-the-80-90s-personal-computers/)
-- [2000-10s. Meta-interfaces](https://blog.apifornia.com/history-of-human-machine-interfaces-part-4-the-2000-10s-meta-interfaces/)
-
+- 🧮 [The Pre-Computer Era](https://blog.apifornia.com/history-of-human-machine-interfaces-in-the-pre-computer-era/)
+- 💽 [1960-70s. Beyond Computing](https://blog.apifornia.com/hci-60-70/)
+- 🖥️ [1980-90s. Personal Computers](https://blog.apifornia.com/history-of-human-machine-interfaces-part-3-the-80-90s-personal-computers/)
+- 🤳 [2000-10s. Meta-interfaces](https://blog.apifornia.com/history-of-human-machine-interfaces-part-4-the-2000-10s-meta-interfaces/)
 
 ### Другие
 
