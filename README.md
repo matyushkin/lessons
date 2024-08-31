@@ -146,7 +146,7 @@
   + [Part 2. The 60s-70s: Beyond Computing](https://blog.apifornia.com/hci-60-70/)
 - [NoCode: Critics](https://blog.apifornia.com/nocode-critics/)
 - 💫 NoCode MVP:
-  - [The Concept](https://blog.apifornia.com/nocode-mvp-concept/),
+  - [The Concept](https://blog.apifornia.com/nocode-mvp-concept/)
   - [The Services](https://blog.apifornia.com/nocode-mvp-the-services/)
   - [After the Launch](https://blog.apifornia.com/nocode-mvp-after-launch/)
 
@@ -171,6 +171,12 @@
 - 👨‍💻 [10 Years of Webflow: A Fresh Look at the Leading Web Design Platform](https://blog.apifornia.com/10-years-of-webflow-a-fresh-look-at-the-leading-web-design-platform/)
 - 🔢 [Meet Airtable – cloud database in a spreadsheet format](https://blog.apifornia.com/meet-airtable-cloud-database-in-a-spreadsheet-format/)
 - 🔢 [Airtable as a CRM: Is it Good Enough?](https://blog.apifornia.com/airtable-as-a-crm-is-it-good-enough/)
+
+#### History of Human-Machine Interfaces
+- [The Pre-Computer Era](https://blog.apifornia.com/history-of-human-machine-interfaces-in-the-pre-computer-era/)
+- [1960-70s. Beyond Computing](https://blog.apifornia.com/hci-60-70/)
+- [1980-90s. Personal Computers](https://blog.apifornia.com/history-of-human-machine-interfaces-part-3-the-80-90s-personal-computers/)
+- [2000-10s. Meta-interfaces](https://blog.apifornia.com/history-of-human-machine-interfaces-part-4-the-2000-10s-meta-interfaces/)
 
 
 ### Другие
