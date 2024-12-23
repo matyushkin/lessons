@@ -179,6 +179,7 @@
 - 🤳 [2000-10s. Meta-interfaces](https://blog.apifornia.com/history-of-human-machine-interfaces-part-4-the-2000-10s-meta-interfaces/)
 - [The Future of Human-Machine Interfaces](https://blog.apifornia.com/hci-future/)
 - [The Evolution of Collaborative Systems](https://blog.apifornia.com/collaboration-history/)
+- [Augmented Collaboration. Emerging Intellectual Synergy](https://blog.apifornia.com/augmented-collaboration-emerging-intellectual-synergy/)
 
 ### Другие
 
