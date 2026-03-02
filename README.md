@@ -132,7 +132,7 @@
 16. 🤷 [Собеседование и семь гномов: задачи с интервью в IT-компаниях](https://proglib.io/p/sobesedovanie-i-sem-gnomov-zadachi-s-intervyu-v-it-kompaniyah-2020-02-22)
 17. 🐍 [Нарисовать змейку, выстроить зиккурат](https://proglib.io/p/para-algoritmicheskih-zadach-dlya-uspeshnogo-programmista-narisovat-zmeyku-vystroit-zikkurat-2020-04-19)
 
-### NoCode (for English speakers)
+### Apifornia Blog (for English speakers)
 
 #### NoCode Paradigm
 - 📝 [To code or not to code](https://blog.apifornia.com/to-code-or-not-to-code/)
@@ -157,9 +157,6 @@
 - 🔢 [NoCode Spreadsheets](https://blog.apifornia.com/nocode-spreadsheets/)
 - 📲 [NoCode mobile app builders](https://blog.apifornia.com/5-nocode-mobile-app-builders/)
 - 🌐 [NoCode and LowCode Frontend constructors](https://blog.apifornia.com/nocode-and-lowcode-constructors-for-frontend/)
-- 🧑‍💻🤖 [Professional LLM Tools](https://blog.apifornia.com/tools-for-professional-work-with-llms/)
-- 🧑‍💻🤖 [AI-Driven Helper Dev Tools Beyond the IDE](https://blog.apifornia.com/ai-driven-helper-dev-tools-beyond-the-ide/)
-- 🧑‍💻🤖 [Not just ChatGPT. AI-driven tools for creating programs](https://blog.apifornia.com/ai-driven-coding-tools/)
 - 🔌 [API Hubs and Marketplaces](https://blog.apifornia.com/api-hubs-and-marketplaces/)
 - 👾 [The Evolution of Game Development: Embracing NoCode Technologies](https://blog.apifornia.com/gamedev-nocode/)
 - 🏠 [NoCode and IoT: platforms and projects](https://blog.apifornia.com/nocode-iot/)
@@ -180,6 +177,15 @@
 - [The Future of Human-Machine Interfaces](https://blog.apifornia.com/hci-future/)
 - [The Evolution of Collaborative Systems](https://blog.apifornia.com/collaboration-history/)
 - [Augmented Collaboration. Emerging Intellectual Synergy](https://blog.apifornia.com/augmented-collaboration-emerging-intellectual-synergy/)
+
+#### AI and LLM
+- 🧑‍💻🤖 [Professional LLM Tools](https://blog.apifornia.com/tools-for-professional-work-with-llms/)
+- 🧑‍💻🤖 [AI-Driven Helper Dev Tools Beyond the IDE](https://blog.apifornia.com/ai-driven-helper-dev-tools-beyond-the-ide/)
+- 🧑‍💻🤖 [Not just ChatGPT. AI-driven tools for creating programs](https://blog.apifornia.com/ai-driven-coding-tools/)
+- 🔌 [Model Context Protocol: Universal Interface for LLM Interaction](https://blog.apifornia.com/mcp-intro/)
+- 🤖 [OpenAI AgentKit Review](https://blog.apifornia.com/openai-agentkit-review/)
+- 🔄 [Reflection as a Mechanism of Unintentional Intelligence](https://blog.apifornia.com/reflection-as-a-mechanism-of-unintentional-intelligence/)
+- ⚖️ [Inscribing Ethics: Codex and Modus Operandi of Digital Golems](https://blog.apifornia.com/modus-operandi-of-digital-golems/)
 
 ### Другие
 
